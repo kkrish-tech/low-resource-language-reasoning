@@ -1,0 +1,1382 @@
+id,prompt,prediction,gold,cosine,bertscore,cosine_mean,bert_mean
+0,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: kai-rep=teba se langsung=i gayam=at kajien \textbf{eba} kuru luk=ta \textbf{eba} se paramuan se di=ra kuar=ta metko
+
+    Gloss:
+    kai-rep=teba → firewood-get={
+
+    Final Answer:
+    ","While gathering firewood, I saw a man who was being chased by a wild dog.","eba} IAM directly=PLNK chestnut=OBJ pick then bring come=NFIN then IAM cut IAM CAUS=go cook=NFIN DIST.LOC
+\glt `[She] went to get firewood and pick chestnuts, then coming back, then [she] cut [them], having cooked [them] there...",0.16174954175949097,0.8173266053199768,0.5832802873849868,0.8919742965698242
+1,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma terima \textbf{terus} ma se ecien=i kewe=ko
+
+    Gloss:
+    ma → 3SG
+terima → receive
+\textbf{terus} → then
+ma → 3SG
+se → IAM
+ecien=i → return=PLNK
+kewe=ko → house=LOC
+
+    Final Answer:
+    ",She will receive them then and return to her house.,He receives [it] and then he returns home.,0.4963734745979309,0.9270093441009521,0.5832802873849868,0.8919742965698242
+2,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: uda=bon=a melelu \textbf{ye} neba=bon=a melelu \textbf{ye}
+
+    Gloss:
+    uda=bon=a → rice_sieve=COM=FOC
+melelu → sit
+\textbf{ye} → or
+neba=bon=a → what=COM=FOC
+melelu → sit
+\textbf{ye} → or
+
+    Final Answer:
+    ","We sit with the rice sieve, or we sit with what.",Sitting with a rice sieve or sitting with what?,0.8733301758766174,0.9443356990814209,0.5832802873849868,0.8919742965698242
+3,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: som-kon ∅-te kon∼kon \textbf{atau} som-kon ∅-te naun-kon
+
+    Gloss:
+    som-kon → person-one
+∅-te → give-DISTR
+kon∼kon → one∼DISTR
+\textbf{atau} → or
+som-kon → person-one
+∅-te → give-DISTR
+naun-kon → fruit-one
+
+    Final Answer:
+    ",People give one another or people give fruit.,"Gave each person one, or gave each person one fruit.",0.8305953145027161,0.8871050477027893,0.5832802873849868,0.8919742965698242
+4,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma pi=at=a ruat=kin \textbf{ye} \textbf{atau} pi=at tamandi=kin
+
+    Gloss:
+    ma → 3SG
+pi=at=a → 1PL.INCL=OBJ=FOC
+ruat=kin → kill=VOL
+\textbf{ye} → or
+\textbf{atau} → or
+pi=at → 1PL.INCL=OBJ
+tamandi=kin → how=VOL
+
+    Final Answer:
+    ",We would rather kill them or how them.,"Does he want to kill us, or what does he want to do with us?",0.4341079592704773,0.8766925930976868,0.5832802873849868,0.8919742965698242
+5,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: kon wa me ror kanggirar-un=ko \textbf{ba} tanbes-pis=ko
+
+    Gloss:
+    kon → one
+wa → PROX
+me → TOP
+ror → tree
+kanggirar-un=ko → face-3POSS=LOC
+\textbf{ba} → but
+tanbes-pis=ko → right-side=LOC
+
+    Final Answer:
+    ","On one side of the tree, but on the right side of my face.","This one he's facing the tree, but on the right side.",0.6448653340339661,0.9291075468063354,0.5832802873849868,0.8919742965698242
+6,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma mu=at komet∼komet \textbf{ba} mu nokidak
+
+    Gloss:
+    ma → 3SG
+mu=at → 3PL=OBJ
+komet∼komet → look∼PROG
+\textbf{ba} → but
+mu → 3PL
+nokidak → be_silent
+
+    Final Answer:
+    ","They are looking at them, but they are being silent.",He watches them but they are silent.,0.737467885017395,0.9463448524475098,0.5832802873849868,0.8919742965698242
+7,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma koi bo ror kodaet=ko ma koi pareir=taet \textbf{ba} \textbf{tapi} goras wa me \textbf{sedangkan} sor-un ma lapas=nin
+
+    Gloss:
+    ma → 3SG
+koi → then
+bo → go
+ror → tree
+kodaet=ko → one_more=LOC
+ma → 3SG
+koi → then
+pareir=taet → follow=again
+\textbf{ba} → but
+\textbf{tapi} → but
+goras → crow
+wa → PROX
+me → TOP
+\textbf{sedangkan} → but
+sor-un → fish-3POSS
+ma → 3SG
+lapas=nin → drop.MLY=NEG
+
+    Final Answer:
+    ","Then, he went to the tree again. But there was a crow nearby. But he didn't drop his fish.","Then he goes to another tree, he follows again, but the crow doesn't drop its fish.",0.8761731386184692,0.9431614279747009,0.5832802873849868,0.8919742965698242
+8,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: kalamang-mang ewa=\textbf{ta} \textbf{eba} ma tangkap=et
+
+    Gloss:
+    kalamang-mang → Kalamang-language
+ewa=\textbf{ta} → speak=NFIN
+\textbf{eba} → so_that
+ma → 3SG
+tangkap=et → record=IRR
+
+    Final Answer:
+    ",She will record it so that he speaks in the Kalamang language.,Speak Kalamang so that she can record.,0.788261890411377,0.9215166568756104,0.5832802873849868,0.8919742965698242
+9,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: Mel se dalang=i bara mungkin yar-un naunin=ten me=ba=\textbf{tauna} ma se jie kuru sara
+
+    Gloss:
+    Mel → Mel
+se → IAM
+dalang=i → jump=PLNK
+bara → descend
+mungkin → maybe
+yar-un → stone-3POSS
+naunin=ten → recognise-TEN
+me=ba=\textbf{tauna} → DIST={\glba}=so
+ma → 3SG
+se → IAM
+jie → get
+kuru → bring
+sara → ascend
+
+    Final Answer:
+    ","Maybe Mel will jump down and recognise the stone of his so distant friend, then he will get it and bring it up.","Mel jumped down, maybe he recognised his stone, so he got [a lobster] and brought [it] up.",0.6742196083068848,0.9091220498085022,0.5832802873849868,0.8919742965698242
+10,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: warkin kararak=\textbf{tauna} ge=et pi osa=ka terus=i marat=et
+
+    Gloss:
+    warkin → tide
+kararak=\textbf{tauna} → dry=so
+ge=et → no=IRR
+pi → we
+osa=ka → UP=LAT
+terus=i → go_further=PLNK
+marat=et → move_landwards=IRR
+
+    Final Answer:
+    ","As we go further, we will move landwards no more, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will go up laterally, but we will not move landwards, we will","The tide is low, so why don't we continue from up there towards land.",0.25315359234809875,0.8167675137519836,0.5832802873849868,0.8919742965698242
+11,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ka don yuwa=at=a na=\textbf{tauna} sehingga don mun=ten wandi=et ka bisa na=ta
+
+    Gloss:
+    ka → 2SG
+don → thing
+yuwa=at=a → PROX=OBJ=FOC
+na=\textbf{tauna} → eat=so
+sehingga → so_that
+don → thing
+mun=ten → rotten=AT
+wandi=et → like_this=IRR
+ka → 2SG
+bisa → can
+na=ta → eat=NFIN
+
+    Final Answer:
+    ",You should eat this thing so that you can eat this rotten thing like this.,"You ate this thing, [how has it come so far] that you can eat rotten things like this?",0.7711976766586304,0.9022764563560486,0.5832802873849868,0.8919742965698242
+12,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: in bo war=\textbf{tenden} in=nan kaden-un koi kememe
+
+    Gloss:
+    in → 1PL.EXCL
+bo → go
+war=\textbf{tenden} → fish=so
+in=nan → 1PL.EXCL=too
+kaden-un → body-1PL.EXCL.POSS
+koi → again
+kememe → weak
+
+    Final Answer:
+    ","We go catch fish too, our bodies are weak again.",We went fishing so our bodies are tired.,0.7076518535614014,0.9195691347122192,0.5832802873849868,0.8919742965698242
+13,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: mier se nau=bes=\textbf{tenden} ma kiun=at jaga to
+
+    Gloss:
+    mier → 3DU
+se → IAM
+nau=bes=\textbf{tenden} → RECP=good=so
+ma → 3SG
+kiun=at → wife.3POSS=OBJ
+jaga → watch
+to → right
+
+    Final Answer:
+    ",They are watching her wife correctly.,"They have made up with each other, so he is taking care of his wife, right.",0.49901121854782104,0.8951884508132935,0.5832802873849868,0.8919742965698242
+14,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: kiun ketiga tum∼tum karuok weinun \textbf{jadi} pebis-un karuok-gan tum∼tum tebonggan kaninggonie
+
+    Gloss:
+    kiun → wife.3POSS
+ketiga → third
+tum∼tum → child∼PL
+karuok → three
+weinun → too
+\textbf{jadi} → so
+pebis-un → woman-3POSS
+karuok-gan → three-all
+tum∼tum → child∼PL
+tebonggan → all
+kaninggonie → nine
+
+    Final Answer:
+    ","So, my wife has three children, and I have three children too, so my wife and I have six children altogether, and my wife's mother has nine grandchildren, and all of them are three years old.","His third wife also had three children, so his three women had nine children in total.",0.7045996189117432,0.9018101096153259,0.5832802873849868,0.8919742965698242
+15,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: mu se koi wat pes=at di=kahalong siun=ko \textbf{karena} kahalong siun kang
+
+    Gloss:
+    mu → 3PL
+se → IAM
+koi → then
+wat → coconut
+pes=at → peel=OBJ
+di=kahalong → CAUS=spear
+siun=ko → edge.3POSS=LOC
+\textbf{karena} → because
+kahalong → spear
+siun → edge.3POSS
+kang → sharp
+
+    Final Answer:
+    ","Because they then spear the coconut peel at the edge of their spear, it becomes sharp.","Then they put the coconut skin on the points of the two-pointed spear, because the two-pointed spear has sharp points.",0.8289507627487183,0.9098914265632629,0.5832802873849868,0.8919742965698242
+16,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ka muap=at kuet=nin ka-mun langsung=i bo=in \textbf{supaya} pi tok muap-sanggara eba marei
+
+    Gloss:
+    ka → 2SG
+muap=at → food=OBJ
+kuet=nin → bring=NEG
+ka-mun → 2SG=PROH
+langsung=i → directly=PLNK
+bo=in → go-PROH
+\textbf{supaya} → so_that
+pi → 1PL.INCL
+tok → first
+muap-sanggara → food-search
+eba → then
+marei → move_landwards.IMP
+
+    Final Answer:
+    ","You and I should first go directly, so that we can search for food first, then move inwards.","You didn't bring food, don't you go directly, so that we go food-searching first, then go towards land!",0.7301762104034424,0.9122494459152222,0.5832802873849868,0.8919742965698242
+17,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: \textbf{kalau} loi∼loi=tun=\textbf{et} \textbf{me} eranun ka sitak sitak sitak
+
+    Gloss:
+    \textbf{kalau} → if
+loi∼loi=tun=\textbf{et} → quick∼INTS=INTS=IRR
+\textbf{me} → TOP
+eranun → cannot
+ka → 2SG
+sitak → slow
+sitak → slow
+sitak → slow
+
+    Final Answer:
+    ","If you can't, then you would be slow, slow, slow.","If [you do it] too quickly, it's not possible, you [have to do it] slowly, slowly, slowly.",0.5604903697967529,0.8951352834701538,0.5832802873849868,0.8919742965698242
+18,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ka mu ∅=\textbf{te} mu na
+
+    Gloss:
+    ka → 2SG
+mu → 3PL
+∅=\textbf{te} → give={
+
+    Final Answer:
+    ",You give them to me.,"e} 3PL consume
+\glt `You give [the food] to them, they eat.",0.2298603653907776,0.8773043155670166,0.5832802873849868,0.8919742965698242
+19,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: kiun=at me ma gonggung=\textbf{te} ma kirarun=ko
+
+    Gloss:
+    kiun=at → wife.3POSS=OBJ
+me → TOP
+ma → 3SG
+gonggung=\textbf{te} → call={
+
+    Final Answer:
+    ",She calls her wife.,"e} 3SG side=LOC
+\glt `His wife he calls, she [comes and sits] beside him.",0.40932348370552063,0.871625542640686,0.5832802873849868,0.8919742965698242
+20,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: se bo=\textbf{te} nain panggala naun=kap
+
+    Gloss:
+    se → IAM
+bo=\textbf{te} → go=\GLTE
+nain → like
+panggala → cassava
+naun=kap → fruit=SIM
+
+    Final Answer:
+    ",I am going to like cassava fruit.,[It's] already becoming as big as a cassava.,0.6027528643608093,0.8951526880264282,0.5832802873849868,0.8919742965698242
+21,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: sikan bo=\textbf{te} tepeles nerun=ko
+
+    Gloss:
+    sikan → cat
+bo=\textbf{te} → go={
+
+    Final Answer:
+    ",The cat is going to the market.,"e} jar inside=LOC
+\glt `The cat goes inside the jar.",0.4023025929927826,0.8626749515533447,0.5832802873849868,0.8919742965698242
+22,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: an toni kalau ki=konggo=a garung=et an se dodon-an met kuru marua metko=\textbf{ta} \textbf{(e)ba} kawet∼kawet sambil garung=et
+
+    Gloss:
+    an → 1SG
+toni → say
+kalau → if
+ki=konggo=a → 2PL=AN.LOC=FOC
+garung=et → chat=IRR
+an → 1SG
+se → IAM
+dodon-an → clothing-1SG.POSS
+met → DIST.OBJ
+kuru → bring
+marua → move_seawards
+metko=\textbf{ta} → DIST.LOC=NFIN
+\textbf{(e)ba} → then
+kawet∼kawet → fold∼ITER
+sambil → simultaneously
+garung=et → chat=IRR
+
+    Final Answer:
+    ","If I were to say that you and the others are going to chat with me, then I would bring a distant object, move it seawards, and fold it repeatedly, simultaneously chatting with you.","I said if you are chatting at yours, I bring my clothing down there, then fold while chatting.",0.6486147046089172,0.8782006502151489,0.5832802873849868,0.8919742965698242
+23,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: pi pakut=et tahan=\textbf{ta} \textbf{(e)ba} bisa yorsik=\textbf{ta} \textbf{ba} bisa kit-kadok di=rat=et
+
+    Gloss:
+    pi → 1PL.INCL
+pakut=et → nail=IRR
+tahan=\textbf{ta} → endure=NFIN
+\textbf{(e)ba} → then
+bisa → can
+yorsik=\textbf{ta} → straight=NFIN
+\textbf{ba} → then
+bisa → can
+kit-kadok → top-side
+di=rat=et → CAUS=move=IRR
+
+    Final Answer:
+    ","We will endure then, and then we can straighten our top-side, and then we can move it.","If we nail steadily then [we] can make it straight, then [we] can install the top.",0.5309803485870361,0.8995696902275085,0.5832802873849868,0.8919742965698242
+24,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ki wangga barat=et
+
+    Gloss:
+    ki → 2PL
+wangga → PROX.LAT
+barat=et → descend=IRR
+
+    Final Answer:
+    ",You two are about to descend from over there.,You go down here.,0.31943783164024353,0.8811359405517578,0.5832802873849868,0.8919742965698242
+25,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: mu toni o in hukat=at kon-i koluk
+
+    Gloss:
+    mu → 3PL
+toni → say
+o → INT
+in → 1PL.EXCL
+hukat=at → net=OBJ
+kon-i → one-OBJQNT
+koluk → find
+
+    Final Answer:
+    ",They say we are the ones who found it.,"They said: ``O, we found a net.''",0.4574642777442932,0.8841656446456909,0.5832802873849868,0.8919742965698242
+26,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma toni mu paruak ma se komet∼komet hukat yuwa me tok giar=ten
+
+    Gloss:
+    ma → 3SG
+toni → say
+mu → 3PL
+paruak → throw_away
+ma → 3SG
+se → IAM
+komet∼komet → look∼PROG
+hukat → net
+yuwa → PROX
+me → TOP
+tok → still
+giar=ten → new=AT
+
+    Final Answer:
+    ","She says they throw away it, I am looking at the new net still here.","She said that they threw [it] away, she had been looking, this net was still new.",0.8702102899551392,0.9148470163345337,0.5832802873849868,0.8919742965698242
+27,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma toni kaman=nan mambon
+
+    Gloss:
+    ma → 3SG
+toni → say
+kaman=nan → grass=too
+mambon → EXIST
+
+    Final Answer:
+    ",She says the grass is also there.,"He said: ``There is grass, too.''",0.7334061861038208,0.9055233001708984,0.5832802873849868,0.8919742965698242
+28,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: kiun=a \textbf{taruo} \textbf{toni} mu=nan se ma go-un=at ruon
+
+    Gloss:
+    kiun=a → wife-3POSS=FOC
+\textbf{taruo} → say
+\textbf{toni} → say
+mu=nan → 3PL=too
+se → IAM
+ma → move_seawards
+go-un=at → place-3POSS=OBJ
+ruon → dig
+
+    Final Answer:
+    ",My wife also says that I should dig a place for them to move seawards.,His wife said that that they also wanted to go down to dig out their place.,0.5403729677200317,0.9082983136177063,0.5832802873849868,0.8919742965698242
+29,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: mu se nau=gerket \textbf{nau=gerket} \textbf{toni} deh ma watko=nin
+
+    Gloss:
+    mu → 3PL
+se → IAM
+nau=gerket → RECP=ask
+\textbf{nau=gerket} → RECP=ask
+\textbf{toni} → say
+deh → INT.PEJ
+ma → 3SG
+watko=nin → PROX.LOC=NEG
+
+    Final Answer:
+    ",They say the people who asked us are not here.,"They asked each other (saying): ``Ah, he isn't here.''",0.6026849746704102,0.8795507550239563,0.5832802873849868,0.8919742965698242
+30,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: in se \textbf{gerket} mu se maruan ye
+
+    Gloss:
+    in → 1SG.EX
+se → IAM
+\textbf{gerket} → ask
+mu → 3PL
+se → IAM
+maruan → move_seawards
+ye → or
+
+    Final Answer:
+    ",I ask them or I move seawards.,We asked: ``Have they come down yet?',0.4019070267677307,0.8599265217781067,0.5832802873849868,0.8919742965698242
+31,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma \textbf{toni} in se lalat to
+
+    Gloss:
+    ma → 3SG
+\textbf{toni} → think
+in → 1PL.EXCL
+se → IAM
+lalat → dead
+to → right
+
+    Final Answer:
+    ",We think right with you.,"She thought we were dead, you know.",0.35743969678878784,0.8608604073524475,0.5832802873849868,0.8919742965698242
+32,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: eba an \textbf{se} inye ma Onco=ba
+
+    Gloss:
+    eba → then
+an → 1SG
+\textbf{se} → IAM
+inye → INT.PEJ
+ma → 3SG
+Onco=ba → Onco=FOC
+
+    Final Answer:
+    ","Then I am the one who is being looked at by him, Onco.","Then I'm like: ``Aaah, it's Onco!''",0.5246518850326538,0.8706137537956238,0.5832802873849868,0.8919742965698242
+33,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: an se \textbf{wandi} eh ema
+
+    Gloss:
+    an → 1SG
+se → IAM
+\textbf{wandi} → like_this
+eh → hey
+ema → aunt
+
+    Final Answer:
+    ","I'm like this, hey aunt.",I went like this: ``Hey aunt!'',0.7575351595878601,0.9009854793548584,0.5832802873849868,0.8919742965698242
+34,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: mu se \textbf{wandi} \textbf{gerket} an ∅=te
+
+    Gloss:
+    mu → 3PL
+se → IAM
+\textbf{wandi} → like_this
+\textbf{gerket} → ask
+an → 1SG
+∅=te → GIVE=IMP
+
+    Final Answer:
+    ",They ask me like this.,They asked like this: ``Give me!'',0.5051738023757935,0.9046452641487122,0.5832802873849868,0.8919742965698242
+35,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: eh mama se ruon eh ruon ba ki-mun tok na=in
+
+    Gloss:
+    eh → QUOT
+mama → mother
+se → IAM
+ruon → cooked
+eh → QUOT
+ruon → cooked
+ba → but
+ki-mun → 2PL-PROH
+tok → yet
+na=in → eat=PROH
+
+    Final Answer:
+    ","""Your mother says, 'I am cooked,' but you two shouldn't eat yet.""","{``}Mom, it's cooked.'' ``Yes, but don't you guys eat [it] yet!''",0.7786454558372498,0.8787562847137451,0.5832802873849868,0.8919742965698242
+36,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: Mas toni eh pi tiri ra komet=et yo in se tiri ra
+
+    Gloss:
+    Mas → Mas
+toni → say
+eh → QUOT
+pi → 1PL.INCL
+tiri → sail
+ra → move_path
+komet=et → look=IRR
+yo → yes
+in → 1PL.EXCL
+se → IAM
+tiri → sail
+ra → move_path
+
+    Final Answer:
+    ","We're going to sail together, and then we'll look back and see that we're sailing.",Mas said: ``We sail that way to look.'' ``Yes.'' We sailed that way.,0.6039620637893677,0.8546048998832703,0.5832802873849868,0.8919742965698242
+37,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma-mun se koi gerket=in \textbf{mena} ma koi bara malaimang=taet mu me pep mangun met=a
+
+    Gloss:
+    ma-mun → 3SG-PROH
+se → IAM
+koi → again
+gerket=in → ask=PROH
+\textbf{mena} → otherwise
+ma → 3SG
+koi → again
+bara → descend
+malaimang=taet → Malay=more
+mu → 3PL
+me → TOP
+pep → pig
+mangun → language-3POSS
+met=a → DIST.OBJ=FOC
+
+    Final Answer:
+    ","They will ask him again otherwise, but he will again descend to the Malay language of the pigs over there.","Don't ask again, otherwise she will come down again speaking more Malay, their pig's language.",0.7372076511383057,0.9152309894561768,0.5832802873849868,0.8919742965698242
+38,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: go sausaun=et me \textbf{mena} kanggirar-pe \textbf{mena} kuskap
+
+    Gloss:
+    go → condition
+sausaun=et → dark=IRR
+me → TOP
+\textbf{mena} → otherwise
+kanggirar-pe → eye-1PL.INCL.POSS
+\textbf{mena} → otherwise
+kuskap → black
+
+    Final Answer:
+    ","If it were dark, otherwise we would see with our own eyes, otherwise everything would be black.","[It's not good] if it is dark, otherwise our faces are black.",0.4995729327201843,0.8989375233650208,0.5832802873849868,0.8919742965698242
+39,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ka kolko=te wat=\textbf{re} kat kosarat=et
+
+    Gloss:
+    ka → 2SG
+kolko=te → move_out=IMP
+wat=\textbf{re} → coconut=APPR
+kat → 2SG.OBJ
+kosarat=et → hit=IRR
+
+    Final Answer:
+    ",You hit the coconut for me.,"Move aside, or a coconut might hit you!",0.7088636159896851,0.8832173347473145,0.5832802873849868,0.8919742965698242
+40,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: jadi tanaman pun demekian wat=\textbf{o} bes im=\textbf{o} bes sayang=\textbf{o} bes
+
+    Gloss:
+    jadi → so
+tanaman → plant
+pun → even
+demekian → thus
+wat=\textbf{o} → coconut=COND
+bes → good
+im=\textbf{o} → banana=COND
+bes → good
+sayang=\textbf{o} → nutmeg=COND
+bes → good
+
+    Final Answer:
+    ","So even a plant is thus good if it has coconuts, good if it has bananas, and good if it has nutmeg.","So whichever plant [we grow], whether it's coconut, banana or nutmeg, it's good.",0.8710236549377441,0.8952909708023071,0.5832802873849868,0.8919742965698242
+41,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: al-un kinkinun \textbf{ge=et} \textbf{me} se rasa
+
+    Gloss:
+    al-un → string-3POSS
+kinkinun → small
+\textbf{ge=et} → no=IRR
+\textbf{me} → TOP
+se → IAM
+rasa → like
+
+    Final Answer:
+    ",I don't like it like this.,"It has small strings, if not, it would have been good already.",0.10404407978057861,0.8655375838279724,0.5832802873849868,0.8919742965698242
+42,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: komahal=\textbf{et} \textbf{me} ukir=te
+
+    Gloss:
+    komahal=\textbf{et} → not_understand=IRR
+\textbf{me} → TOP
+ukir=te → measure=IMP
+
+    Final Answer:
+    ","Don't try to understand me, measure this.","If [you] don't understand, measure.",0.6816664934158325,0.8766453266143799,0.5832802873849868,0.8919742965698242
+43,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ma rap=\textbf{et} \textbf{eba} gier-un iriskap
+
+    Gloss:
+    ma → 3SG
+rap=\textbf{et} → laugh=IRR
+\textbf{eba} → then
+gier-un → tooth-3POSS
+iriskap → white
+
+    Final Answer:
+    ",She will then laugh at his white tooth.,"When he laughs, his teeth are white.",0.6994112730026245,0.9218101501464844,0.5832802873849868,0.8919742965698242
+44,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: an or=\textbf{et} mu toni sabar-kadok=a iren, an sabar=ko=\textbf{et} mu toni or-kadok=a iren
+
+    Gloss:
+    an → 1SG
+or=\textbf{et} → back=IRR
+mu → 3PL
+toni → say
+sabar-kadok=a → front-side=FOC
+iren, → white
+an → 1SG
+sabar=ko=\textbf{et} → front=LOC=IRR
+mu → 3PL
+toni → say
+or-kadok=a → back-side=FOC
+iren → white
+
+    Final Answer:
+    ","I will go to the back of the white house and say something, then I will go to the front of the white house and say something.","If/when I'm in the back they say the one in the front is white, if/when I'm in the front they say the one in the back is white.",0.3660247027873993,0.8733417391777039,0.5832802873849868,0.8919742965698242
+45,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: [enem beladar-pas] \textbf{me} buok=at kuru bara pier=ki bes to
+
+    Gloss:
+    [enem → woman
+beladar-pas] → Netherlands-woman
+\textbf{me} → TOP
+buok=at → betel=OBJ
+kuru → bring
+bara → descend
+pier=ki → 1DU.IN=BEN
+bes → good
+to → right
+
+    Final Answer:
+    ",The Netherlands woman brings a betel for us to descend to the right place.,"The Dutchwoman brought down betel for us, good, right?' (Context: subject is given but not recently mentioned.)",0.6976498961448669,0.872821569442749,0.5832802873849868,0.8919742965698242
+46,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: [ka] \textbf{me} an se kat percai=nin
+
+    Gloss:
+    [ka] → 2SG
+\textbf{me} → TOP
+an → 1SG
+se → IAM
+kat → 2SG.OBJ
+percai=nin → believe=NEG
+
+    Final Answer:
+    ",You don't believe me.,"As for you, I don't believe you any more.",0.5282411575317383,0.9243295192718506,0.5832802873849868,0.8919742965698242
+47,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: ki Tanggor=ka=ta rar [Tanggor] \textbf{me} mambon
+
+    Gloss:
+    ki → 2PL
+Tanggor=ka=ta → Tanggor=LAT=NFIN
+rar → go.PL.IMP
+[Tanggor] → Tanggor
+\textbf{me} → TOP
+mambon → EXIST
+
+    Final Answer:
+    ","You two go with Tanggor, and there is a party.","You go to Tanggor, at Tanggor there are [fish].' (Context: Tanggor is given, in this very example.)",0.3670322895050049,0.8691194653511047,0.5832802873849868,0.8919742965698242
+48,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: [pas me] \textbf{me} mungkin berupa jim
+
+    Gloss:
+    [pas → woman
+me] → DIST
+\textbf{me} → ME
+mungkin → maybe
+berupa → be_a_form_of
+jim → jinn
+
+    Final Answer:
+    ",A distant woman might be a jinn.,That woman is maybe a kind of jinn.' (Context: description of a video. The woman has been mentioned; this is a comment about her identity.),0.6621255278587341,0.8938252925872803,0.5832802873849868,0.8919742965698242
+49,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Kalamang
+    Sentence: [wa] \textbf{me} eir eh
+
+    Gloss:
+    [wa] → PROX
+\textbf{me} → TOP
+eir → two
+eh → TAG
+
+    Final Answer:
+    ",These two are together.,"These are two, right?' (Context: learning to weave a basket, pointing at strips of material in the teacher's hand.)",0.39204949140548706,0.8655562996864319,0.5832802873849868,0.8919742965698242

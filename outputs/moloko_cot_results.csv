@@ -1,0 +1,1280 @@
+id,prompt,prediction,gold,cosine,bertscore,cosine_mean,bert_mean
+0,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: \textbf{apazaŋ} albaja=ahaj tɔ-lɔ a lɪhɛ
+
+    Gloss:
+    \textbf{apazaŋ} → yesterday
+albaja=ahaj → youth=Pl
+tɔ-lɔ → 3P+PFV-go
+a → at
+lɪhɛ → bush
+
+    Final Answer:
+    ",The youth went to the bush yesterday.,"‘Yesterday the youths went to the bush.’
+
+\ea",0.8238176107406616,0.923630952835083,0.6061360913515091,0.8881726551055908
+1,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: \textbf{Hawa} à-həm-aj
+
+    Gloss:
+    \textbf{Hawa} → Hawa
+à-həm-aj → 3S+PFV-run-CL
+
+    Final Answer:
+    ",She ran.,"‘Hawa ran.’
+
+\ea",0.3994711935520172,0.8981840014457703,0.6061360913515091,0.8881726551055908
+2,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: \textbf{nɛ}\textbf{=ahaŋ} n\'{ɔ}-zɔm na
+
+    Gloss:
+    \textbf{nɛ}\textbf{=ahaŋ} → oneS=3S.POSS
+n\'{ɔ}-zɔm → 3S+PFV-eat
+na → 3S.DO
+
+    Final Answer:
+    ",She ate her one.,"‘I myself ate it.’
+
+\ea",0.534368634223938,0.8706532120704651,0.6061360913515091,0.8881726551055908
+3,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: n\`{ə}-həm-aj
+
+    Gloss:
+    n\`{ə}-həm-aj → 1S+PFV-run-\CL
+
+    Final Answer:
+    ",I ran.,"‘I ran.’
+
+\ea",0.6793652176856995,0.9053778648376465,0.6061360913515091,0.8881726551055908
+4,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: dər=aka=alaj
+
+    Gloss:
+    dər=aka=alaj → move=on=away
+
+    Final Answer:
+    ",Move on to a different location.,"‘Move further over!’
+
+\ea",0.3594786524772644,0.8416154980659485,0.6061360913515091,0.8881726551055908
+5,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: n\`{ə}-vəl=aŋ na
+
+    Gloss:
+    n\`{ə}-vəl=aŋ → oneS+PFV-give=3S.IO
+na → 3S.DO
+
+    Final Answer:
+    ",He gave it to him.,"‘I gave it to him.’
+
+\ea",0.7860400676727295,0.9093093276023865,0.6061360913515091,0.8881726551055908
+6,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: z=aw na=ala
+
+    Gloss:
+    z=aw → carry[twoS.IMP]=oneS.IO
+na=ala → 3S.DO=to
+
+    Final Answer:
+    ",Carry it to him.,"‘Bring it to me!’
+
+\ea",0.49660569429397583,0.8745778203010559,0.6061360913515091,0.8881726551055908
+7,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [Mana] [zar mɛ-hɛr-ɛ]
+
+    Gloss:
+    [Mana] → Mana
+[zar → man
+mɛ-hɛr-ɛ] → NOM-build-CL
+
+    Final Answer:
+    ",The Mana man builds.,"‘Mana [is] a builder.’ (lit. Mana, building-man)
+
+\ea",0.7268409729003906,0.8606614470481873,0.6061360913515091,0.8881726551055908
+8,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [ɬəmaj=uwla] [Abaŋgaj]
+
+    Gloss:
+    [ɬəmaj=uwla] → name=oneS.POSS
+[Abaŋgaj] → Abangay
+
+    Final Answer:
+    ",Abangay's one son.,"‘My name [is] Abangay.’
+
+\ea",0.5661242604255676,0.8668748736381531,0.6061360913515091,0.8881726551055908
+9,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [zar nɛhɛ] [baba=uwla]
+
+    Gloss:
+    [zar → man
+nɛhɛ] → DEM
+[baba=uwla] → father=oneS.POSS
+
+    Final Answer:
+    ",That man is my father.,"‘The man [is] my father.’
+
+\ea",0.7018349766731262,0.8949636816978455,0.6061360913515091,0.8881726551055908
+10,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [ndahaŋ] [malaŋ ga]
+
+    Gloss:
+    [ndahaŋ] → 3S
+[malaŋ → largeness
+ga] → ADJ
+
+    Final Answer:
+    ",He is large.,"‘He/she [is] big.’
+
+\ea",0.4314163327217102,0.8823800683021545,0.6061360913515091,0.8881726551055908
+11,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [babəza=ahaj nɪndijɛ] [\textbf{aŋga} bahaj]
+
+    Gloss:
+    [babəza=ahaj → children=Pl
+nɪndijɛ] → DEM
+[\textbf{aŋga} → POSS
+bahaj] → chief
+
+    Final Answer:
+    ",These are the children of that chief.,"‘The children here belong to the chief.’
+
+\ea",0.7550464272499084,0.9055997133255005,0.6061360913515091,0.8881726551055908
+12,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [dəraj ga] [\textbf{aŋga} lɪmɛ]
+
+    Gloss:
+    [dəraj → head
+ga] → ADJ
+[\textbf{aŋga} → POSS
+lɪmɛ] → 1PEX
+
+    Final Answer:
+    ",My head is mine.,"‘The head belonged to us.’
+
+\ea",0.4579243063926697,0.8923506140708923,0.6061360913515091,0.8881726551055908
+13,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [zar mɛ-hɛr-ɛ] na [Mana]
+
+    Gloss:
+    [zar → man
+mɛ-hɛr-ɛ] → NOM-build-CL
+na → PSP
+[Mana] → Mana
+
+    Final Answer:
+    ",The man is building Mana.,"‘The builder [is] Mana.’
+
+\ea",0.5740921497344971,0.8636569976806641,0.6061360913515091,0.8881726551055908
+14,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [bahaj a Lawaj na] [Adzəva]
+
+    Gloss:
+    [bahaj → chief
+a → GEN
+Lawaj → Lalaway
+na] → PSP
+[Adzəva] → Adzava
+
+    Final Answer:
+    ",The chief of the Lalaway people is Adzava.,"‘The chief of Lalaway [is] Adzava.’
+
+\ea",0.8889855742454529,0.911756157875061,0.6061360913515091,0.8881726551055908
+15,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [malaŋ ga] na [ndahaŋ]
+
+    Gloss:
+    [malaŋ → largeness
+ga] → ADJ
+na → PSP
+[ndahaŋ] → 3S
+
+    Final Answer:
+    ",She is large.,"‘The biggest one [is] him.’
+
+\ea",0.23417526483535767,0.871346652507782,0.6061360913515091,0.8881726551055908
+16,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [à-l=ala \textbf{baj}]
+
+    Gloss:
+    [à-l=ala → 3S+PFV-go=to
+\textbf{baj}] → NEG
+
+    Final Answer:
+    ",She didn't go there.,"‘He/she didn’t come.’
+
+\ea",0.44800546765327454,0.8761110305786133,0.6061360913515091,0.8881726551055908
+17,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [war ga ɛ-tʃɛŋ ɬəmaj \textbf{baj}]
+
+    Gloss:
+    [war → child
+ga → ADJ
+ɛ-tʃɛŋ → 3S-hear
+ɬəmaj → ear
+\textbf{baj}] → NEG
+
+    Final Answer:
+    ",The child doesn't hear with his ear.,"‘That child did not obey.’
+
+\ea",0.4019681513309479,0.8789852857589722,0.6061360913515091,0.8881726551055908
+18,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [táá-ɮəg=alaj avʊlɔ \textbf{baj}]
+
+    Gloss:
+    [táá-ɮəg=alaj → 3P+POT-throw=away
+avʊlɔ → above
+\textbf{baj}] → NEG
+
+    Final Answer:
+    ",They won't throw it away above.,"‘They should not throw it too high.’
+
+\ea",0.47574174404144287,0.8658790588378906,0.6061360913515091,0.8881726551055908
+19,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [ta-g=aw ɛlɛ lala \textbf{baj}]
+
+    Gloss:
+    [ta-g=aw → 3P-do=oneS.IO
+ɛlɛ → thing
+lala → good
+\textbf{baj}] → NEG
+
+    Final Answer:
+    ",One person does not like something good.,"‘They do bad things to me.’
+
+\ea",0.3083135783672333,0.8459927439689636,0.6061360913515091,0.8881726551055908
+20,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [ká-ras-aj mɪʒɛ tʃɪɗɛw ga \textbf{baj}]
+
+    Gloss:
+    [ká-ras-aj → twoS+IFV-minimise-CL
+mɪʒɛ → person
+tʃɪɗɛw → smallness
+ga → ADJ
+\textbf{baj}] → NEG
+
+    Final Answer:
+    ",Two people are not very small.,"‘Don’t insult one of the little people.’
+
+\ea",0.23241308331489563,0.8533880114555359,0.6061360913515091,0.8881726551055908
+21,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: [à-ndaj dɪrɛŋ \textbf{baj}]
+
+    Gloss:
+    [à-ndaj → 3S+PFV-PRG
+dɪrɛŋ → far
+\textbf{baj}] → NEG
+
+    Final Answer:
+    ",He was not far.,"‘He/she was not far.’
+
+\ea",0.6791654825210571,0.9019924402236938,0.6061360913515091,0.8881726551055908
+22,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-həm-aj
+
+    Gloss:
+    a-həm-aj → 3S-run-CL
+
+    Final Answer:
+    ",He runs.,"‘He/she runs.’
+
+\ea",0.615403413772583,0.8930034637451172,0.6061360913515091,0.8881726551055908
+23,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-həm-aj \textbf{baj}
+
+    Gloss:
+    a-həm-aj → 3S-run-CL
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",He does not run.,"‘He/she doesn’t run.’
+
+\ea",0.6530277729034424,0.9013173580169678,0.6061360913515091,0.8881726551055908
+24,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-mənzar Hawa \textbf{baj}
+
+    Gloss:
+    a-mənzar → 3S-see
+Hawa → Hawa
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",Hawa does not see.,"‘He/she doesn’t see Hawa.’
+
+\ea",0.8266214728355408,0.8871087431907654,0.6061360913515091,0.8881726551055908
+25,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-kaɗ awak
+
+    Gloss:
+    a-kaɗ → 3S-kill
+awak → goat
+
+    Final Answer:
+    ",He killed a goat.,"‘He/she kills a goat.’
+
+\ea",0.7551050782203674,0.9029842019081116,0.6061360913515091,0.8881726551055908
+26,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-kaɗ awak \textbf{baj}
+
+    Gloss:
+    a-kaɗ → 3S-kill
+awak → goat
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",The goat did not kill him.,"‘He/she doesn’t kill a goat.’
+
+\ea",0.7226125597953796,0.890023946762085,0.6061360913515091,0.8881726551055908
+27,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-s=aw ʃɛʃɛ
+
+    Gloss:
+    a-s=aw → 3S-please=oneS.IO
+ʃɛʃɛ → meat
+
+    Final Answer:
+    ",He would like one piece of meat.,"‘I want meat.’
+
+\ea",0.6376263499259949,0.8736160397529602,0.6061360913515091,0.8881726551055908
+28,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: a-s=aw ʃɛʃɛ \textbf{baj}
+
+    Gloss:
+    a-s=aw → 3S-please=oneS.IO
+ʃɛʃɛ → meat
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",One person is asking another to give them some meat.,"‘I do not want meat.’
+
+\ea",0.5297881364822388,0.8594360947608948,0.6061360913515091,0.8881726551055908
+29,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: babəza=uwla=ahaj \textbf{abaj}
+
+    Gloss:
+    babəza=uwla=ahaj → children=oneS.POSS=Pl
+\textbf{abaj} → EXT+NEG
+
+    Final Answer:
+    ",It's not true that the children have one parent.,"‘I have no children.’
+
+\ea",0.4743219017982483,0.8632475733757019,0.6061360913515091,0.8881726551055908
+30,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: dala an=aw aka \textbf{baj}
+
+    Gloss:
+    dala → money
+an=aw → DAT=oneS
+aka → EXT+on
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",There's not enough money for one more.,"‘I have no money.’
+
+\ea",0.3879614472389221,0.8632903695106506,0.6061360913515091,0.8881726551055908
+31,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ndahaŋ ɮɪlɛ ga
+
+    Gloss:
+    ndahaŋ → 3S
+ɮɪlɛ → richness
+ga → ADJ
+
+    Final Answer:
+    ",She is rich.,"‘He/she is rich.’
+
+\ea",0.6791635751724243,0.8986524939537048,0.6061360913515091,0.8881726551055908
+32,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ndahaŋ ɮɪlɛ ga \textbf{baj}
+
+    Gloss:
+    ndahaŋ → 3S
+ɮɪlɛ → richness
+ga → ADJ
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",He is not rich.,"‘He/she is not rich.’
+
+\ea",0.6926053762435913,0.9069856405258179,0.6061360913515091,0.8881726551055908
+33,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ndahaŋ gədaŋ ga
+
+    Gloss:
+    ndahaŋ → 3S
+gədaŋ → strength
+ga → ADJ
+
+    Final Answer:
+    ",He is strong.,"‘He/she is strong.’
+
+\ea",0.6114862561225891,0.9016577005386353,0.6061360913515091,0.8881726551055908
+34,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ndahaŋ gədaŋ ga \textbf{baj}
+
+    Gloss:
+    ndahaŋ → 3S
+gədaŋ → strength
+ga → ADJ
+\textbf{baj} → NEG
+
+    Final Answer:
+    ",He is not strong.,"‘He/she is not strong.’
+
+\ea",0.6170873641967773,0.908566951751709,0.6061360913515091,0.8881726551055908
+35,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: Mana na ɔ-lɔ [a kɔsɔkʷɔ ava] ɗaw
+
+    Gloss:
+    Mana → Mana
+na → PSP
+ɔ-lɔ → 3S-go
+[a → at
+kɔsɔkʷɔ → market
+ava] → in
+ɗaw → Q
+
+    Final Answer:
+    ",Is she going to the market in that?,"‘As for Mana, is he going to the market?’
+
+\ea",0.3233763873577118,0.8774977922439575,0.6061360913515091,0.8881726551055908
+36,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ɛhɛ [ɔ-lɔ a kɔsɔkʷɔ ava] \textbf{baj} ɛ-nʒ-ɛ a mɔgʷɔm
+
+    Gloss:
+    ɛhɛ → no
+[ɔ-lɔ → 3S-go
+a → at
+kɔsɔkʷɔ → market
+ava] → in
+\textbf{baj} → NEG
+ɛ-nʒ-ɛ → 3S-stay-CL
+a → at
+mɔgʷɔm → home
+
+    Final Answer:
+    ","She has no intention of staying at home, but will go to the market instead.","‘No, he isn’t going to the market; rather he is staying at home.’
+
+\ea",0.6196540594100952,0.9008902311325073,0.6061360913515091,0.8881726551055908
+37,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: Mana à-vəl=aŋ kɪndɛw ana baba=ahaŋ ɗaw
+
+    Gloss:
+    Mana → Mana
+à-vəl=aŋ → 3S+PFV-give=3S.IO
+kɪndɛw → guitar
+ana → DAT
+baba=ahaŋ → father=3S.POSS
+ɗaw → Q
+
+    Final Answer:
+    ",Did Mana give her father his guitar?,"‘Did Mana give the guitar to his father?’
+
+\ea",0.8743773698806763,0.916995108127594,0.6061360913515091,0.8881726551055908
+38,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ɛhɛ à-vəl=aŋ [kɪndɛw] \textbf{baj} à-vəl=aŋ tʃɛtʃœkʷ
+
+    Gloss:
+    ɛhɛ → no
+à-vəl=aŋ → 3S+PFV-give=3S.IO
+[kɪndɛw] → guitar
+\textbf{baj} → NEG
+à-vəl=aŋ → 3S+PFV-give=3S.IO
+tʃɛtʃœkʷ → flute
+
+    Final Answer:
+    ","She didn't give him a guitar, but she gave him a flute.","‘No, he didn’t give a guitar to his father, he gave him a flute.’
+
+\ea",0.7855336666107178,0.9210543036460876,0.6061360913515091,0.8881726551055908
+39,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: ɛhɛ amə-vəl=aŋ kɪndɛw ana baba=ahaŋ na [Mana] baj
+
+    Gloss:
+    ɛhɛ → no
+amə-vəl=aŋ → DEP-give=3S.IO
+kɪndɛw → guitar
+ana → DAT
+baba=ahaŋ → father=3S.POSS
+na → PSP
+[Mana] → Mana
+baj → NEG
+
+    Final Answer:
+    ",My father doesn't give his guitar to Mana.,"‘No, Mana didn’t give the guitar to his father.’
+
+\ea",0.8421090245246887,0.907451331615448,0.6061360913515091,0.8881726551055908
+40,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: zar à-mənzar [\textbf{waj}]
+
+    Gloss:
+    zar → man
+à-mənzar → 3S+PFV-see
+[\textbf{waj}] → who
+
+    Final Answer:
+    ",The man saw who.,"‘Who did the man see?’
+
+\ea",0.7127730250358582,0.8820449709892273,0.6061360913515091,0.8881726551055908
+41,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: zar à-mənzar [Mana]
+
+    Gloss:
+    zar → man
+à-mənzar → 3S+PFV-see
+[Mana] → Mana
+
+    Final Answer:
+    ",The man saw Mana.,"‘The man saw Mana.’
+
+\ea",0.8783625364303589,0.918732762336731,0.6061360913515091,0.8881726551055908
+42,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: hʷɔr ɛ-dɛ [ɛlɛlɛ \textbf{wɛlɛj}]
+
+    Gloss:
+    hʷɔr → woman
+ɛ-dɛ → 3S-prepare
+[ɛlɛlɛ → sauce
+\textbf{wɛlɛj}] → which
+
+    Final Answer:
+    ",She prepares the sauce for the woman.,"‘The woman is making which kind of sauce?’
+
+\ea",0.7362332344055176,0.8780490159988403,0.6061360913515091,0.8881726551055908
+43,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: hʷɔr ɛ-d-ɛ [ɛlɛlɛ kɪlɛf]
+
+    Gloss:
+    hʷɔr → woman
+ɛ-d-ɛ → 3S-prepare-CL
+[ɛlɛlɛ → sauce
+kɪlɛf] → fish
+
+    Final Answer:
+    ",The woman is preparing the fish in sauce.,"‘The woman is making fish sauce.’
+
+\ea",0.7053231000900269,0.9027597308158875,0.6061360913515091,0.8881726551055908
+44,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: k\`{ə}-l=ala [amɪ-g-ijɛ \textbf{almaj}]
+
+    Gloss:
+    k\`{ə}-l=ala → twoS+PFV-go=to
+[amɪ-g-ijɛ → DEP-do-CL
+\textbf{almaj}] → what
+
+    Final Answer:
+    ",They went to do what.,"‘What have you come to do?’ (lit. you have come to do what?)
+
+\ea",0.2527558505535126,0.861714780330658,0.6061360913515091,0.8881726551055908
+45,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: n\`{ə}-l=ala [amɪ-g-ijɛ ɬɪrɛlɛ]
+
+    Gloss:
+    n\`{ə}-l=ala → oneS+PFV-go=to
+[amɪ-g-ijɛ → DEP-do-CL
+ɬɪrɛlɛ] → work
+
+    Final Answer:
+    ",She went to do the work.,"‘I came to do work.’
+
+\ea",0.566566526889801,0.8821636438369751,0.6061360913515091,0.8881726551055908
+46,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: n\`{ə}-l=ala [amə-dzən-ɔkʷ]
+
+    Gloss:
+    n\`{ə}-l=ala → oneS+PFV-go=to
+[amə-dzən-ɔkʷ] → DEP-help-twoS
+
+    Final Answer:
+    ",They helped each other.,"‘I came to help you.’
+
+\ea",0.3915817141532898,0.8736638426780701,0.6061360913515091,0.8881726551055908
+47,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: Mala à-vəl=aŋ ɗɛlijwɛr [ana Hawa]
+
+    Gloss:
+    Mala → Mala
+à-vəl=aŋ → 3S+PFV-give=3S.IO
+ɗɛlijwɛr → paper
+[ana → DAT
+Hawa] → Hawa
+
+    Final Answer:
+    ",Mala gave paper to Hawa.,"‘Mala gave the book to Hawa.’
+
+\ea",0.8353431820869446,0.92259681224823,0.6061360913515091,0.8881726551055908
+48,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: hʷɔr ɔ-lɔ a kɔsɔkʷɔ ava [\textbf{ɛpɛlɛj}]
+
+    Gloss:
+    hʷɔr → woman
+ɔ-lɔ → 3S-go
+a → at
+kɔsɔkʷɔ → market
+ava → in
+[\textbf{ɛpɛlɛj}] → when
+
+    Final Answer:
+    ",When the woman goes to the market.,"‘When is the woman going to market?’
+
+\ea",0.7764950394630432,0.8829208016395569,0.6061360913515091,0.8881726551055908
+49,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Moloko
+    Sentence: hʷɔr ɔ-lɔ a kɔsɔkʷɔ ava [hadzaŋ]
+
+    Gloss:
+    hʷɔr → woman
+ɔ-lɔ → 3S-go
+a → at
+kɔsɔkʷɔ → market
+ava → in
+[hadzaŋ] → tomorrow
+
+    Final Answer:
+    ",The woman will go to the market in tomorrow.,‘The woman is going to market tomorrow.’,0.8423143029212952,0.9349195957183838,0.6061360913515091,0.8881726551055908

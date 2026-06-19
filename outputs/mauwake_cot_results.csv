@@ -1,0 +1,1253 @@
+id,prompt,prediction,gold,cosine,bertscore,cosine_mean,bert_mean
+0,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: yiena iiriw kae sira nain
+
+    Gloss:
+    yiena → 1p.GEN
+iiriw → earlier
+kae → 1s/p.grandfather
+sira → custom
+nain → that1
+
+    Final Answer:
+    ",My grandfather used to follow that custom.,that traditional custom of ours,0.6722421050071716,0.8813478350639343,0.6882062518596649,0.9095882737636566
+1,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: ona siowa
+
+    Gloss:
+    ona → 3s.GEN
+siowa → dog
+
+    Final Answer:
+    ",The dog belongs to him.,his/her dog,0.6231917142868042,0.8804284930229187,0.6882062518596649,0.9095882737636566
+2,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: ifa nain
+
+    Gloss:
+    ifa → snake
+nain → that1
+
+    Final Answer:
+    ",That snake.,the/that snake,0.7119733095169067,0.9082688689231873,0.6882062518596649,0.9095882737636566
+3,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: owow(a) maneka mua
+
+    Gloss:
+    owow(a) → village
+maneka → big
+mua → man
+
+    Final Answer:
+    ",The big man of the village.,townsman,0.5143750905990601,0.8884797692298889,0.6882062518596649,0.9095882737636566
+4,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Wi sawur=ke kuura puuk-a-mik.
+
+    Gloss:
+    Wi → 3p.UNM
+sawur=ke → spirit=CF
+kuura → fly
+puuk-a-mik. → change.into-PA-1/3p
+
+    Final Answer:
+    ",They changed into spirits by flying.,The spirits changed into flies.,0.8724724054336548,0.9425525665283203,0.6882062518596649,0.9095882737636566
+5,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: 'Yo nena niawi=ke nefa maak-i-yem.
+
+    Gloss:
+    'Yo → 1s.UNM
+nena → 2s.GEN
+niawi=ke → 2s/p.father=CF
+nefa → 2s.ACC
+maak-i-yem. → tell-Np-PR.1s
+
+    Final Answer:
+    ","I tell you, your father is telling me.","I, your father, tell you...",0.8477363586425781,0.9260604381561279,0.6882062518596649,0.9095882737636566
+6,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Wi Lasen=ke ekap-e--mik.
+
+    Gloss:
+    Wi → 1p.UNM
+Lasen=ke → Lasen=CF
+ekap-e--mik. → come-PA-1/3p
+
+    Final Answer:
+    ",They came to us.,The Lasen (village) people came.,0.4275773763656616,0.9095422625541687,0.6882062518596649,0.9095882737636566
+7,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: ni aakis takira
+
+    Gloss:
+    ni → 2p.UNM
+aakis → present-day
+takira → young.person
+
+    Final Answer:
+    ",You are young people today.,you young people of today,0.8886536359786987,0.9238505959510803,0.6882062518596649,0.9095882737636566
+8,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: wi iiriw akena mua
+
+    Gloss:
+    wi → 3p.UNM
+iiriw → earlier
+akena → truly
+mua → man
+
+    Final Answer:
+    ",They truly were men earlier.,the people of long ago,0.35449129343032837,0.8662673830986023,0.6882062518596649,0.9095882737636566
+9,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: sawur emeria ona onak wiawi
+
+    Gloss:
+    sawur → spirit
+emeria → woman
+ona → 3s.GEN
+onak → 3s/p.mother
+wiawi → 3s/p.father
+
+    Final Answer:
+    ",The spirit of the woman's mother is the woman's father.,the spirit woman's parents,0.8380576372146606,0.9007272720336914,0.6882062518596649,0.9095882737636566
+10,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: siowa wiawi
+
+    Gloss:
+    siowa → dog
+wiawi → 3s/p.father
+
+    Final Answer:
+    ",The dog is his father.,the dog's owner,0.6228206157684326,0.8985372185707092,0.6882062518596649,0.9095882737636566
+11,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: yiena kae sira
+
+    Gloss:
+    yiena → 1p.GEN
+kae → 1s/p.grandfather
+sira → custom
+
+    Final Answer:
+    ",Our custom is from my grandfather.,our ancestors' (lit: grandfathers') custom,0.6932480931282043,0.883834183216095,0.6882062518596649,0.9095882737636566
+12,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: ona koora
+
+    Gloss:
+    ona → 3s.GEN
+koora → house
+
+    Final Answer:
+    ",His house.,his house,0.9482991695404053,0.9411216378211975,0.6882062518596649,0.9095882737636566
+13,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: takira niir-owa
+
+    Gloss:
+    takira → youth
+niir-owa → play-NMZ
+
+    Final Answer:
+    ",The youth are playing.,young people's play(ing),0.7355746030807495,0.8973424434661865,0.6882062518596649,0.9095882737636566
+14,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Ona apura maa oposia me enim-i-non.
+
+    Gloss:
+    Ona → 3s.GEN
+apura → widow
+maa → thing
+oposia → meat
+me → not
+enim-i-non. → eat-Np-FU.3s
+
+    Final Answer:
+    ",The widow does not eat the thing of meat.,His widow will not eat meat.,0.8937757015228271,0.9444866180419922,0.6882062518596649,0.9095882737636566
+15,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: sawur emeria ona onak wiawi
+
+    Gloss:
+    sawur → spirit
+emeria → woman
+ona → 3s.GEN
+onak → 3s/p.mother
+wiawi → 3s/p.father
+
+    Final Answer:
+    ",The spirit of the woman's mother is the woman's father.,the spirit woman's parents,0.8380576372146606,0.9007272720336914,0.6882062518596649,0.9095882737636566
+16,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Oo, no emeria iiriw sesek-a-mik.
+
+    Gloss:
+    Oo, → Oh
+no → 2s.UNM
+emeria → woman
+iiriw → already
+sesek-a-mik. → send-PA-1/3p
+
+    Final Answer:
+    ","Oh, you have already sent the woman.","Oh, we already sent your wife away.",0.5690015554428101,0.935509204864502,0.6882062518596649,0.9095882737636566
+17,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Nep(a) opaimika me amis(a)-ar-ep wiena opaimika=iw yia maak-em-ik-e-mik.
+
+    Gloss:
+    Nep(a) → bird
+opaimika → talk
+me → not
+amis(a)-ar-ep → knowledge-INCH-SS.SEQ
+wiena → 3p.GEN
+opaimika=iw → talk=INST
+yia → 1p.ACC
+maak-em-ik-e-mik. → tell-SS.SIM-be-PA-1/3p
+
+    Final Answer:
+    ","While they were telling us their knowledge, the bird was talking to us with its talk, using its talk as an instrument.",They did not know Tok Pisin and talked to us in their (own) language.,0.3800366520881653,0.879084050655365,0.6882062518596649,0.9095882737636566
+18,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: i emeria apura yiena mua weria wiena emeria nain=ke
+
+    Gloss:
+    i → 1p.UNM
+emeria → woman
+apura → widow
+yiena → 1p.GEN
+mua → man
+weria → planting.stick
+wiena → 3p.GEN
+emeria → woman
+nain=ke → that1=CF
+
+    Final Answer:
+    ","That woman is a widow of my husband, and that woman's husband is a man with a planting stick.",the wives of the ``weria-relatives'' of us widows,0.4674966633319855,0.8336955308914185,0.6882062518596649,0.9095882737636566
+19,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Fiker(a) epia nain aw-i-non.
+
+    Gloss:
+    Fiker(a) → kunai.grass
+epia → fire
+nain → that1
+aw-i-non. → burn-Np-FU.3s
+
+    Final Answer:
+    ",The kunai grass over there is burning.,The grass fire will burn.,0.6557345390319824,0.9122703075408936,0.6882062518596649,0.9095882737636566
+20,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Mua takira unowa ne emeria wiip-takira=ke me unowa akena.
+
+    Gloss:
+    Mua → man
+takira → youth
+unowa → many
+ne → ADD
+emeria → woman
+wiip-takira=ke → daughter-youth=CF
+me → not
+unowa → many
+akena. → very
+
+    Final Answer:
+    ","Many men are not many youth, but many women are very many daughter-youth.",There are many young boys but not very many young girls.,0.7007832527160645,0.9049161672592163,0.6882062518596649,0.9095882737636566
+21,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Epa kokom-ar-eya urera siowa mua ookinon.
+
+    Gloss:
+    Epa → place
+kokom-ar-eya → dark-INCH-2/3s.DS
+urera → afternoon
+siowa → dog
+mua → man
+ookinon. → follow-Np-FU.3s
+
+    Final Answer:
+    ","While the man was following the dog, the man followed it in the afternoon when it was getting dark.",When it gets dark in the afternoon he will follow the ``dog man'' (a certain nominated person in the singsing traditions).,0.6207095980644226,0.877927303314209,0.6882062518596649,0.9095882737636566
+22,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Bogia era
+
+    Gloss:
+    Bogia → Bogia
+era → road
+
+    Final Answer:
+    ",The road to Bogia.,the Bogia road,0.9386237859725952,0.9615863561630249,0.6882062518596649,0.9095882737636566
+23,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Malala owowa
+
+    Gloss:
+    Malala → Malala
+owowa → village
+
+    Final Answer:
+    ",Malala is in the village.,Malala village,0.8888460397720337,0.9411169290542603,0.6882062518596649,0.9095882737636566
+24,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: garanga oko muuka wiar aaw-owa sira
+
+    Gloss:
+    garanga → family
+oko → other
+muuka → son
+wiar → 3.DAT
+aaw-owa → get-NMZ
+sira → custom
+
+    Final Answer:
+    ",The other son gets the family custom.,adoption custom (lit: the custom of getting a son from another family),0.6489672660827637,0.8724982142448425,0.6882062518596649,0.9095882737636566
+25,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: wiam arow nain
+
+    Gloss:
+    wiam → 3p.UNM(REFL)
+arow → three
+nain → that1
+
+    Final Answer:
+    ",They are three of them.,the three of them / those three,0.612267255783081,0.9079185724258423,0.6882062518596649,0.9095882737636566
+26,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: labuel(a) mua
+
+    Gloss:
+    labuel(a) → pawpaw
+mua → man
+
+    Final Answer:
+    ",The man is eating a pawpaw.,male pawpaw,0.594937801361084,0.8958777189254761,0.6882062518596649,0.9095882737636566
+27,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: takira emin(a) kekanowa
+
+    Gloss:
+    takira → boy
+emin(a) → occiput
+kekanowa → strong
+
+    Final Answer:
+    ",The boy has a strong head.,pig-headed boy,0.5210062265396118,0.9049452543258667,0.6882062518596649,0.9095882737636566
+28,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: mua bug maala nain
+
+    Gloss:
+    mua → man
+bug → wind
+maala → long
+nain → that1
+
+    Final Answer:
+    ",The man is blowing that long wind.,the man with good lungs,0.4827505350112915,0.8703719973564148,0.6882062518596649,0.9095882737636566
+29,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Waa(ya) muuka kia gelemuta op-a-m.
+
+    Gloss:
+    Waa(ya) → pig
+muuka → son
+kia → white
+gelemuta → small
+op-a-m. → catch-PA-1s
+
+    Final Answer:
+    ",The white son caught a small pig.,I caught a small white piglet.,0.7069928050041199,0.9473180770874023,0.6882062518596649,0.9095882737636566
+30,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Emer(a) itita enum(a) eliwa nain enak-e.
+
+    Gloss:
+    Emer(a) → sago
+itita → soft
+enum(a) → new
+eliwa → good
+nain → that1
+enak-e. → feed.me-IMP.2s
+
+    Final Answer:
+    ",Feed me that good new sago that is soft.,Give me the good new soft sago/bread to eat.,0.80077064037323,0.934101402759552,0.6882062518596649,0.9095882737636566
+31,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Siowa morena oko aruf-a-k.
+
+    Gloss:
+    Siowa → dog
+morena → male
+oko → another
+aruf-a-k. → hit-PA-3s
+
+    Final Answer:
+    ",The male dog hit another one.,He hit another male dog.,0.9044384956359863,0.9650079011917114,0.6882062518596649,0.9095882737636566
+32,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: koora erepam nain
+
+    Gloss:
+    koora → house
+erepam → four
+nain → that1
+
+    Final Answer:
+    ",The house of four that one.,the/those four houses' or `the fourth house,0.7156786918640137,0.8555903434753418,0.6882062518596649,0.9095882737636566
+33,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Owow emeria mua unowa sira eliwa wiar uruf-ap ...
+
+    Gloss:
+    Owow → village
+emeria → woman
+mua → man
+unowa → many
+sira → custom
+eliwa → good
+wiar → 3.DAT
+uruf-ap → see-SS.SEQ
+... → ...
+
+    Final Answer:
+    ","In the village, many women see the good custom of the man for the third person.",The many villagers saw his good manners and ...,0.486508846282959,0.9019542336463928,0.6882062518596649,0.9095882737636566
+34,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Pina gelemuta eliw owowa=pa nefar kaken-ami welaw-i-kuan.
+
+    Gloss:
+    Pina → guilt
+gelemuta → small
+eliw → well
+owowa=pa → village=LOC
+nefar → 2s.DAT
+kaken-ami → straighten-SS.SIM
+welaw-i-kuan. → finish-Np-FU.3p
+
+    Final Answer:
+    ",They finished straightening your back for you in the village.,Your small guilt they can well straighten and finish in the village.,0.6113302707672119,0.8912723064422607,0.6882062518596649,0.9095882737636566
+35,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Amina fain me wiar op-aka.
+
+    Gloss:
+    Amina → pot
+fain → this
+me → not
+wiar → 3.DAT
+op-aka. → hold-IMP.2p
+
+    Final Answer:
+    ",You hold this pot for me.,Don't hold/touch these pots of hers.,0.5792890787124634,0.8867701888084412,0.6882062518596649,0.9095882737636566
+36,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Yo miira me uruf-a-m, afifa muutiw wiar uruf-a-m.
+
+    Gloss:
+    Yo → 1s.UNM
+miira → face
+me → not
+uruf-a-m, → see-PA-1s
+afifa → hair
+muutiw → only
+wiar → 3.DAT
+uruf-a-m. → see-PA-1s
+
+    Final Answer:
+    ","I see my face, but I only see his hair.","I didn't see the face, I only saw his hair.",0.8425419330596924,0.9493229985237122,0.6882062518596649,0.9095882737636566
+37,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Amina, wiowa, eka napia koor miira=pa iimar-ow-a-mik.
+
+    Gloss:
+    Amina, → pot
+wiowa, → spear,
+eka → water
+napia → bamboo
+koor → house
+miira=pa → face=LOC
+iimar-ow-a-mik. → stand-CAUS-PA-1/3p
+
+    Final Answer:
+    ",They stood her up against the bamboo wall of the house with a spear in her face.,"We placed the pots, spears and water bamboos in front of the house.",0.511100172996521,0.886757493019104,0.6882062518596649,0.9095882737636566
+38,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: I mua unowa, emeria papako ikiw-e-mik.
+
+    Gloss:
+    I → 1s.UNM
+mua → man
+unowa, → many
+emeria → woman
+papako → some
+ikiw-e-mik. → go-PA-1/3p
+
+    Final Answer:
+    ","The woman and I, along with some others, will go.",Many men (including the narrator) and some women went.,0.5725341439247131,0.9057163000106812,0.6882062518596649,0.9095882737636566
+39,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Nie ne neke nomokow fiira=ke.
+
+    Gloss:
+    Nie → 2s/p.maternal.uncle
+ne → ADD
+neke → 2s/p.grandfather
+nomokow → tree
+fiira=ke. → root=CF
+
+    Final Answer:
+    ",Your maternal uncle is like your grandfather in terms of the tree root.,Your maternal uncle and your grandfather are the most important relatives.,0.6164630055427551,0.9287609457969666,0.6882062518596649,0.9095882737636566
+40,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Mera kas, mulamul ne popotimaw aaw-i-mik.
+
+    Gloss:
+    Mera → fish
+kas, → mackerel
+mulamul → trevally.sp
+ne → ADD
+popotimaw → trevally.sp
+aaw-i-mik. → get-Np-PR.1/3p
+
+    Final Answer:
+    ","They get the mackerel, trevally, and trevally fish.","We catch mackerel, mulamul trevally and popotimaw trevally.",0.7267130613327026,0.9088984131813049,0.6882062518596649,0.9095882737636566
+41,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Manin koora nain koka ne ifara=ke wakesim-o-k.
+
+    Gloss:
+    Manin → garden
+koora → house
+nain → that1
+koka → jungle
+ne → ADD
+ifara=ke → vine=CF
+wakesim-o-k. → cover-PA-3s
+
+    Final Answer:
+    ","In the jungle, that house is covered with vines.",The garden house was covered by jungle and vines.,0.8449922800064087,0.9491345882415771,0.6882062518596649,0.9095882737636566
+42,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Wiena merena ne wapen=iw era akup-a-mik.
+
+    Gloss:
+    Wiena → 3p.GEN
+merena → foot
+ne → ADD
+wapen=iw → hand=INST
+era → road
+akup-a-mik. → search-PA-1/3p
+
+    Final Answer:
+    ",They searched the road with their hands for their foot.,They felt for the road with their feet and hands.,0.7772895097732544,0.9406424164772034,0.6882062518596649,0.9095882737636566
+43,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Yos, yena auwa, aria wi emer en-owa mua kuisow ikiw-e-mik.
+
+    Gloss:
+    Yos, → 1s.FC
+yena → 1s.GEN
+auwa, → 1s/p.father
+aria → alright
+wi → 3p.UNM
+emer → sago
+en-owa → eat-NMZ
+mua → man
+kuisow → one
+ikiw-e-mik. → go-PA-1/3p
+
+    Final Answer:
+    ","My father is alright, the men are eating one sago each.","I, my father, and one Sepik man went.",0.45146653056144714,0.8899341821670532,0.6882062518596649,0.9095882737636566
+44,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Moma, aria emera naap lawisiw eeyar-e-k.
+
+    Gloss:
+    Moma, → taro,
+aria → alright
+emera → sago
+naap → thus
+lawisiw → rather
+eeyar-e-k. → last-PA-3s
+
+    Final Answer:
+    ","The taro is alright, but the sago is rather last for him.","Taro, and sago, lasted a little longer.",0.8149787187576294,0.8946269154548645,0.6882062518596649,0.9095882737636566
+45,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Mera aaw-owa sira e era ikur okaiwi=pa kuisow ik-ua.
+
+    Gloss:
+    Mera → fish
+aaw-owa → get-NMZ
+sira → custom
+e → or
+era → way
+ikur → five
+okaiwi=pa → other.side=LOC
+kuisow → one
+ik-ua. → be-PA.3s
+
+    Final Answer:
+    ","She got five fish from the other side of the river as a custom, or that's the way one person was.",There are six means of catching fish.,0.6050474643707275,0.8795950412750244,0.6882062518596649,0.9095882737636566
+46,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Maa oposia=i moma, emera, naap sesek-a-mik.
+
+    Gloss:
+    Maa → thing
+oposia=i → meat=QM
+moma, → taro
+emera, → sago
+naap → thus
+sesek-a-mik. → sell-PA-1/3p
+
+    Final Answer:
+    ","We sell the taro, sago, and meat thus.","They sold meat, taro, sago...",0.7985812425613403,0.943634033203125,0.6882062518596649,0.9095882737636566
+47,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Ikoka mua owawiya irak-ep me efar kerer-e.
+
+    Gloss:
+    Ikoka → later
+mua → man
+owawiya → with
+irak-ep → fight-SS.SEQ
+me → not
+efar → 1s.DAT
+kerer-e. → appear-IMP.2s
+
+    Final Answer:
+    ","Later, the man will fight with me, but you appear to me.","Later when you fight with your husband, do not come to me.",0.6323987245559692,0.9041140675544739,0.6882062518596649,0.9095882737636566
+48,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Wi Yaapan oos onaiya Madang ikiw-e-mik.
+
+    Gloss:
+    Wi → 3p.UNM
+Yaapan → Japan
+oos → horse
+onaiya → with
+Madang → Madang
+ikiw-e-mik. → go-PA-1/3p
+
+    Final Answer:
+    ",They went to Japan with a horse to Madang.,The Japanese went with horses to Madang.,0.9485753178596497,0.9627876281738281,0.6882062518596649,0.9095882737636566
+49,"You are a professional linguist.
+
+    You will translate a sentence using step-by-step reasoning.
+
+    Follow these steps internally:
+    1. Identify each morpheme and its meaning using the glossary.
+    2. Understand how the meanings combine into a full sentence.
+    3. Produce a fluent natural English translation.
+
+    IMPORTANT:
+    Do NOT show your reasoning.
+    Return ONLY the final translation.
+
+    Language: Mauwake
+    Sentence: Parosifa siisim-ep muuka feekiya sesek-i-nen.
+
+    Gloss:
+    Parosifa → letter
+siisim-ep → write-SS.SEQ
+muuka → son
+feekiya → with
+sesek-i-nen. → send-Np-FU.1s
+
+    Final Answer:
+    ",I will write a letter to my son.,I will write a letter and send it with my son.,0.8989137411117554,0.9621817469596863,0.6882062518596649,0.9095882737636566
