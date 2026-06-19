@@ -1,0 +1,649 @@
+Question 0:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): mua ___ sira
+Gloss (with missing item): man ___ custom
+The English translation of this sentence is:`the burial custom (lit: the custom of burying men)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both nouns \REF{ex:3:x7} and adjectives \REF{ex:3:x8} may be derived from verbs with the nominalizer suffix \nobreakdash-\textstyleStyleVernacularWordsItalic{owa}.
+A: word: soop-owa	 gloss: bury-NMZ
+B: word: ekap-owa	 gloss: come-NMZ
+C: word: akua-aaw-om-owa	 gloss: shoulder-take-BEN-NMZ
+D: word: wakesim-owa	 gloss: cover-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 1:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Emi ___ nain puuk-a-mik.
+Gloss (with missing item): taboo ___ that1 cut-PA-1/3p
+The English translation of this sentence is:`They broke the strong taboo rule.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both nouns \REF{ex:3:x7} and adjectives \REF{ex:3:x8} may be derived from verbs with the nominalizer suffix \nobreakdash-\textstyleStyleVernacularWordsItalic{owa}.
+A: word: kekan-owa	 gloss: be.strong-NMZ
+B: word: kekan-owa=ke	 gloss: be.strong-NMZ=CF
+C: word: sande	 gloss: Sunday
+D: word: gelemutu-mut	 gloss: small-RDP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 2:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): aasa ___ fain
+Gloss (with missing item): canoe ___ this
+The English translation of this sentence is:`this old canoe'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \textstyleEmphasizedWords{{Syntactically}}, there are a few similarities between nouns and adjectives. Both can function as a modifier following the head noun in a \textstyleAcronymallcaps{np}, although adjectives \REF{ex:3:x9} are much more common in this position. In \citegen[161]{HopperEtAl1985} terms, it is nouns whose categorial status has been reduced, i.e. nouns that are not fully individuated in the discourse \REF{ex:3:x10}, that can function in this modifier position.
+A: word: awona	 gloss: old
+B: word: iperowa	 gloss: older
+C: word: maneka-ya=na	 gloss: big-2/3s.DS=TP
+D: word: onaiya	 gloss: with
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 3:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): mua ___ eliwa
+Gloss (with missing item): man ___ good
+The English translation of this sentence is:`a well-mannered man (=a good man)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \textstyleEmphasizedWords{{Syntactically}}, there are a few similarities between nouns and adjectives. Both can function as a modifier following the head noun in a \textstyleAcronymallcaps{np}, although adjectives \REF{ex:3:x9} are much more common in this position. In \citegen[161]{HopperEtAl1985} terms, it is nouns whose categorial status has been reduced, i.e. nouns that are not fully individuated in the discourse \REF{ex:3:x10}, that can function in this modifier position.
+A: word: kaik-ap	 gloss: tie-SS.SEQ
+B: word: sira	 gloss: manner
+C: word: maak-ep-pu-ami	 gloss: tell-SS.SEQ-CMPL-SS.SIM
+D: word: sira=ke	 gloss: custom=CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 4:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): mua sira ___
+Gloss (with missing item): man manner ___
+The English translation of this sentence is:`a well-mannered man (=a good man)'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \textstyleEmphasizedWords{{Syntactically}}, there are a few similarities between nouns and adjectives. Both can function as a modifier following the head noun in a \textstyleAcronymallcaps{np}, although adjectives \REF{ex:3:x9} are much more common in this position. In \citegen[161]{HopperEtAl1985} terms, it is nouns whose categorial status has been reduced, i.e. nouns that are not fully individuated in the discourse \REF{ex:3:x10}, that can function in this modifier position.
+A: word: eliwa	 gloss: good
+B: word: eliw	 gloss: well
+C: word: wakesim-ep-pu-ami	 gloss: cover-SS.SEQ-CMPL-SS.SIM
+D: word: ele-eliwa	 gloss: RDP-good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 5:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): mua ___
+Gloss (with missing item): man ___
+The English translation of this sentence is:`a real man'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The intensifier \textstyleStyleVernacularWordsItalic{the morpheme ___} `real(ly), very' can also modify both adjectives \REF{ex:3:x3} and nouns \REF{ex:3:x11}.
+A: word: akena	 gloss: real/true
+B: word: iw-e-mik	 gloss: give.him-PA-1/3p
+C: word: unan	 gloss: Yesterday
+D: word: makena	 gloss: truly
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 6:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ifa ___
+Gloss (with missing item): snake ___
+The English translation of this sentence is:`bad snakes'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complete or partial reduplication of adjectives is a common strategy for indicating plurality in Austronesian languages \citep[62]{Wurm1982}, and it also occurs to some extent in many Papuan languages, including Mauwake. Reduplication is a more productive process in the adjectives \REF{ex:3:x12}, \REF{ex:3:x481}, but it is possible for a few nouns too \REF{ex:3:x13}, \REF{ex:3:x1859} (\sectref{sec:3.2.6.2}).
+A: word: damo-damola=ko	 gloss: RDP-bad=NF
+B: word: atua=ke	 gloss: worm=CF
+C: word: samo-samora	 gloss: RDP-bad
+D: word: samora	 gloss: bad
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 7:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Maa ___ sesek-a-mik.
+Gloss (with missing item): thing/food ___ sell-PA-1/3p
+The English translation of this sentence is:`They sold good foods (different kinds).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complete or partial reduplication of adjectives is a common strategy for indicating plurality in Austronesian languages \citep[62]{Wurm1982}, and it also occurs to some extent in many Papuan languages, including Mauwake. Reduplication is a more productive process in the adjectives \REF{ex:3:x12}, \REF{ex:3:x481}, but it is possible for a few nouns too \REF{ex:3:x13}, \REF{ex:3:x1859} (\sectref{sec:3.2.6.2}).
+A: word: en-ep-pu-ap	 gloss: eat-SS.SEQ-CMPL-SS.SEQ
+B: word: samo-samora	 gloss: RDP-bad
+C: word: eliwa	 gloss: good
+D: word: ele-eliwa	 gloss: RDP-good
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 8:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ ikiw-e-mik.
+Gloss (with missing item): ___ go-PA-1/3p
+The English translation of this sentence is:`They went to many villages.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complete or partial reduplication of adjectives is a common strategy for indicating plurality in Austronesian languages \citep[62]{Wurm1982}, and it also occurs to some extent in many Papuan languages, including Mauwake. Reduplication is a more productive process in the adjectives \REF{ex:3:x12}, \REF{ex:3:x481}, but it is possible for a few nouns too \REF{ex:3:x13}, \REF{ex:3:x1859} (\sectref{sec:3.2.6.2}).
+A: word: owow	 gloss: village
+B: word: owowa=pa=ko	 gloss: village=LOC=NF
+C: word: owow-owowa	 gloss: RDP-village
+D: word: aaw-iwkin	 gloss: get-2/3p.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 9:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`many customs', `different kinds'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complete or partial reduplication of adjectives is a common strategy for indicating plurality in Austronesian languages \citep[62]{Wurm1982}, and it also occurs to some extent in many Papuan languages, including Mauwake. Reduplication is a more productive process in the adjectives \REF{ex:3:x12}, \REF{ex:3:x481}, but it is possible for a few nouns too \REF{ex:3:x13}, \REF{ex:3:x1859} (\sectref{sec:3.2.6.2}).
+A: word: sira-sira	 gloss: custom-custom
+B: word: kaken	 gloss: straight
+C: word: sira	 gloss: custom
+D: word: neemi	 gloss: therefore
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 10:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ eka
+Gloss (with missing item): ___ water
+The English translation of this sentence is:`fish soup'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Only a noun may occur as a qualifier in a noun phrase, preceding the head noun \REF{ex:3:x15}. In some of these cases it is difficult to decide whether they are really \textstyleAcronymallcaps{np}s with a qualifier and a head noun, or compound nouns. But if the latter is the case, then the restriction applies that an adjective cannot be the first element in a compound noun.
+A: word: mangala	 gloss: shellfish
+B: word: mera	 gloss: fish
+C: word: emera	 gloss: sago,
+D: word: wu-om-a-mik=na	 gloss: put-BEN-BNFY2.PA-1/3p=TP
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 11:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): wi Amerika ___ unuma Magerka
+Gloss (with missing item): 3p.UNM America ___ name MacArthur
+The English translation of this sentence is:`the leader of the Americans, whose name was MacArthur'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: An exception to this rule is the adjective \textstyleStyleVernacularWordsItalic{the morpheme ___} `its gloss ___' \REF{ex:3:x105}. The expression \textstyleStyleVernacularWordsItalic{yiena Maneka} `our Lord' (literally: our Big one), is probably formed following Tok Pisin \textstyleForeignWords{Bikpela bilong yumi.}\footnote{Non-prototypical adjectives are discussed later in this section; `its gloss ___' is a prototypical adjective, so its use in a typically nominal position is an exception.}
+A: word: maneka=ke	 gloss: big=CF
+B: word: maneka/gelemuta	 gloss: big/little
+C: word: maneka	 gloss: big
+D: word: wiam	 gloss: 3p.REFL
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 12:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Mera nain ___ maneka akena.
+Gloss (with missing item): fish that1 ___ big very
+The English translation of this sentence is:`That fish is rather huge.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Only an adjective functions as the head of an adjective phrase. In that position it may be modified by intensity adverbs (\sectref{sec:3.9.2}). Of these, \textstyleStyleVernacularWordsItalic{the morpheme ___} `its gloss ___' does not modify nouns at all \REF{ex:3:x18}; \textstyleStyleVernacularWordsItalic{akena} `very' and \textstyleStyleVernacularWordsItalic{pepek} `enough' may modify nouns as well; \textstyleStyleVernacularWordsItalic{wenup} `very' can do that too, but as a noun modifier it has a somewhat restricted use and a different meaning: `many'.
+A: word: lawisiw	 gloss: rather
+B: word: lawiliw	 gloss: nearly
+C: word: eliwa	 gloss: good
+D: word: on-i-man	 gloss: do-NP-PR.2p
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 13:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Mera nain lawisiw ___ akena.
+Gloss (with missing item): fish that1 rather ___ very
+The English translation of this sentence is:`That fish is rather huge.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Only an adjective functions as the head of an adjective phrase. In that position it may be modified by intensity adverbs (\sectref{sec:3.9.2}). Of these, \textstyleStyleVernacularWordsItalic{lawisiw} `rather' does not modify nouns at all \REF{ex:3:x18}; \textstyleStyleVernacularWordsItalic{akena} `very' and \textstyleStyleVernacularWordsItalic{pepek} `enough' may modify nouns as well; \textstyleStyleVernacularWordsItalic{wenup} `very' can do that too, but as a noun modifier it has a somewhat restricted use and a different meaning: `many'.
+A: word: maneka/gelemuta	 gloss: big/little
+B: word: maneka	 gloss: big
+C: word: efa	 gloss: 2s.ACC
+D: word: maneka=ke	 gloss: big=CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 14:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ maneka kamenap?
+Gloss (with missing item): ___ big what.like
+The English translation of this sentence is:`What is the weight like?', `How big is the weight?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: What further obscures the area of nouns and adjectives is the fact that there are a number of words that sometimes function like nouns \REF{ex:3:x20}, sometimes like adjectives \REF{ex:3:x21}, and that also semantically could be like either.
+A: word: oro-oro-oro-oro-mi	 gloss: RDP-RDP-RDP-descend-SS.SIM
+B: word: iimeka	 gloss: ten
+C: word: pina	 gloss: weight
+D: word: pina=pa	 gloss: guilt=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 15:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ opora wiar miim-i-yen.
+Gloss (with missing item): ___ talk 3.DAT hear-Np-FU.1p
+The English translation of this sentence is:`We will listen to the talk of the middle-aged (men).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The less prototypical status of human nouns also shows in words like \textstyleStyleVernacularWordsItalic{apura} `widow' and \textstyleStyleVernacularWordsItalic{oosa} `widower' which may occur by themselves as heads of a \textstyleAcronymallcaps{np}, but which are most typically used as post-modifiers of \textstyleStyleVernacularWordsItalic{emeria} `woman' and \textstyleStyleVernacularWordsItalic{mua} `man', respectively.\footnote{Other words in this group are \textstyleFootnoteBaseChar{muupera}\textbf{ }`visitor, guest' and especially \textstyleFootnoteBaseChar{weria}, which as a human noun only occurs in the combination \textstyleFootnoteBaseChar{mua weria}, `uncle/ male cross cousin/ nephew'. The \textstyleFootnoteBaseChar{mua weria'}s are responsible for burying a dead person and dispensing of his/her belongings (\sectref{sec:1.3.6}).} As age in human beings tends to be treated as a crucial determinant of \textstyleEmphasizedWords{{kind}}, even languages with large adjective classes often have special nouns for referring to old persons \citep[368]{Wierzbicka1986}. In Mauwake, adjectives that indicate age in humans are non-prototypical, more noun-like than most adjectives: both \textstyleStyleVernacularWordsItalic{the morpheme ___} `its gloss ___' \REF{ex:3:x25} and \textstyleStyleVernacularWordsItalic{panewowa} `old' are used as the head of a \textstyleAcronymallcaps{np} besides the typical adjectival use.
+A: word: iperowa=ke	 gloss: middle.aged=CF
+B: word: aakun-i-yan	 gloss: discuss-Np-FU.1p
+C: word: reen-eya	 gloss: dry-2/3s.DS
+D: word: iperowa	 gloss: middle-aged
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 16:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ mua
+Gloss (with missing item): ___ man
+The English translation of this sentence is:`a sick man'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With the rules given above it is fairly straightforward to distinguish the nouns and adjectives in Mauwake. But a small group remains that seems to have a membership in both classes. Originally, they are are nouns that are now employed as adjectives as well. The claim is based on the fact that the noun category is the more basic and universally recognized, whereas the existence of the adjective category is disputed in some languages; in Mauwake the noun class is clearly established, large, and more easily definable. Also, there are at least two nouns in Mauwake that currently seem to be in the process of becoming regular adjectives: the meaning of the phrase stays the same with the pre-modifying noun and the post-modifying adjective \REF{ex:3:x107}--\REF{ex:3:x1823}.
+A: word: wu-ap-pu-ami	 gloss: put-SS.SEQ-CMPL-SS.SIM
+B: word: napuma	 gloss: sick
+C: word: napum(a)	 gloss: sickness
+D: word: napuma=ke	 gloss: sickness
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 17:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): opor(a) ___
+Gloss (with missing item): talk ___
+The English translation of this sentence is:`a lie'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: With the rules given above it is fairly straightforward to distinguish the nouns and adjectives in Mauwake. But a small group remains that seems to have a membership in both classes. Originally, they are are nouns that are now employed as adjectives as well. The claim is based on the fact that the noun category is the more basic and universally recognized, whereas the existence of the adjective category is disputed in some languages; in Mauwake the noun class is clearly established, large, and more easily definable. Also, there are at least two nouns in Mauwake that currently seem to be in the process of becoming regular adjectives: the meaning of the phrase stays the same with the pre-modifying noun and the post-modifying adjective \REF{ex:3:x107}--\REF{ex:3:x1823}.
+A: word: manina	 gloss: garden
+B: word: wadol	 gloss: lie
+C: word: wadola	 gloss: lie/false
+D: word: os=ke-r=iw	 gloss: 3s.FC=CF-{\O}=LIM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 18:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ panewowa nain ma-i-yem.
+Gloss (with missing item): ___ old that1 say-Np-PR.1s
+The English translation of this sentence is:`I am talking about the \textstyleEmphasizedWords{old} Adek.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Mauwake, proper names can be modified without difficulty, especially by the demonstrative \textstyleStyleVernacularWordsItalic{nain} `that', but also by adjectives. In a culture where there are several namesakes, and surnames are rarely used, modifiers are occasionally needed to distinguish between people \REF{ex:3:x27}.
+A: word: na-i-mik=yon=i	 gloss: say-Np-PR.1/3p=perhaps=QM
+B: word: pepek	 gloss: enough
+C: word: adek	 gloss: Adek
+D: word: poh	 gloss: Poh
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 19:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Adek ___ nain ma-i-yem.
+Gloss (with missing item): Adek ___ that1 say-Np-PR.1s
+The English translation of this sentence is:`I am talking about the \textstyleEmphasizedWords{old} Adek.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Mauwake, proper names can be modified without difficulty, especially by the demonstrative \textstyleStyleVernacularWordsItalic{nain} `that', but also by adjectives. In a culture where there are several namesakes, and surnames are rarely used, modifiers are occasionally needed to distinguish between people \REF{ex:3:x27}.
+A: word: iperowa	 gloss: older
+B: word: panewowa	 gloss: old
+C: word: panewowa=ke	 gloss: old=CF
+D: word: aakun-owa	 gloss: talk-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 20:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Adek panewowa ___ ma-i-yem.
+Gloss (with missing item): Adek old ___ say-Np-PR.1s
+The English translation of this sentence is:`I am talking about the \textstyleEmphasizedWords{old} Adek.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Mauwake, proper names can be modified without difficulty, especially by the demonstrative \textstyleStyleVernacularWordsItalic{the morpheme ___} `that', but also by adjectives. In a culture where there are several namesakes, and surnames are rarely used, modifiers are occasionally needed to distinguish between people \REF{ex:3:x27}.
+A: word: eefin	 gloss: that2
+B: word: nain	 gloss: that1
+C: word: nain=ko	 gloss: that1=NF
+D: word: buun-eya	 gloss: erupt-2/3s.DS
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 21:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ fain uuw-ow(a) mua=ke.
+Gloss (with missing item): ___ this work-NMZ man=CF
+The English translation of this sentence is:`Dabe here is a hard worker.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But even proper names, that have a unique reference and do not need to be distinguished from any other referent can be modified \REF{ex:3:x106}:
+A: word: dabela	 gloss: cold
+B: word: yagin	 gloss: Yagin
+C: word: dabe	 gloss: Dabe
+D: word: kuenuma=pa	 gloss: underside=LOC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 22:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Dabe ___ uuw-ow(a) mua=ke.
+Gloss (with missing item): Dabe ___ work-NMZ man=CF
+The English translation of this sentence is:`Dabe here is a hard worker.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: But even proper names, that have a unique reference and do not need to be distinguished from any other referent can be modified \REF{ex:3:x106}:
+A: word: aaw-ep	 gloss: take-SS.SEQ
+B: word: feenap	 gloss: like.this
+C: word: fain=iw	 gloss: this=INST
+D: word: fain	 gloss: this
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 23:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ mua oko ekap-o-k.
+Gloss (with missing item): ___ man other come-PA-3s
+The English translation of this sentence is:`A man from Amiten came.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The place name is also used when the inhabitants are referred to. When reference is made to an individual or a select group, the place name is used as a qualifier in the noun phrase \REF{ex:3:x421}:
+A: word: poka-poka	 gloss: RDP-trunk
+B: word: amiten=ke	 gloss: Amiten=CF
+C: word: amiten	 gloss: Amiten
+D: word: naruw	 gloss: ?
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 24:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ Moro=ke uf-e-mik.
+Gloss (with missing item): ___ Moro=CF dance-PA-1/3p
+The English translation of this sentence is:`We Moro people danced.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the whole group the morpheme ___s referred to, a plural pronoun the morpheme ___s added to the place name \REF{ex:3:x422}, \REF{ex:3:x423}:
+A: word: ewur	 gloss: quickly
+B: word: i	 gloss: 1p.UNM
+C: word: kasi	 gloss: cat
+D: word: wia	 gloss: 3p.ACC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 25:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): I ___ uf-e-mik.
+Gloss (with missing item): 1p.UNM ___ dance-PA-1/3p
+The English translation of this sentence is:`We Moro people danced.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the whole group is referred to, a plural pronoun is added to the place name \REF{ex:3:x422}, \REF{ex:3:x423}:
+A: word: papako=ke	 gloss: some=CF
+B: word: nain=iw	 gloss: that1=INST
+C: word: moro=ke	 gloss: Moro=CF
+D: word: moro	 gloss: Moro
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 26:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ Lasen wia nokar-e-k.{\upshape\footnotemark{}}
+Gloss (with missing item): ___ Lasen 3p.ACC ask-PA-3s
+The English translation of this sentence is:`He asked the Lasen people'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the whole group is referred to, a plural pronoun is added to the place name \REF{ex:3:x422}, \REF{ex:3:x423}:
+A: word: okai(wi)=pa	 gloss: other.side=LOC
+B: word: (wi)	 gloss: 3p.UNM
+C: word: (yo/i)	 gloss: 1s/1p.UNM
+D: word: bom=iya	 gloss: bomb=COM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 27:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): (Wi) ___ wia nokar-e-k.{\upshape\footnotemark{}}
+Gloss (with missing item): 3p.UNM ___ 3p.ACC ask-PA-3s
+The English translation of this sentence is:`He asked the Lasen people'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the whole group is referred to, a plural pronoun is added to the place name \REF{ex:3:x422}, \REF{ex:3:x423}:
+A: word: dabe	 gloss: Dabe
+B: word: lasen=ke	 gloss: Lasen=CF
+C: word: lasen	 gloss: Lasen
+D: word: fan	 gloss: here
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 28:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): (Wi) Lasen ___ nokar-e-k.{\upshape\footnotemark{}}
+Gloss (with missing item): 3p.UNM Lasen ___ ask-PA-3s
+The English translation of this sentence is:`He asked the Lasen people'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: When the whole group is referred to, a plural pronoun is added to the place name \REF{ex:3:x422}, \REF{ex:3:x423}:
+A: word: wiar	 gloss: 3.DAT
+B: word: nia	 gloss: 2p.ACC
+C: word: owawiya	 gloss: with
+D: word: wia	 gloss: 3p.ACC
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 29:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Kuuten ___ iperowa, yo auwa kapa=ke.
+Gloss (with missing item): Kuuten ___ firstborn 1s.UNM 1s/p.father lastborn=CF
+The English translation of this sentence is:`Kuuten's father was the firstborn, my father the lastborn.'\footnote{Both of these fathers could be called auwa `my/our father(s)' by the two men.}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: uroma	 gloss: stomach
+B: word: kame=pa	 gloss: side=LOC
+C: word: wiawi=ke	 gloss: 3s/p.father=CF
+D: word: wiawi	 gloss: 3s/p.father
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 30:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Kuuten wiawi iperowa, ___ auwa kapa=ke.
+Gloss (with missing item): Kuuten 3s/p.father firstborn ___ 1s/p.father lastborn=CF
+The English translation of this sentence is:`Kuuten's father was the firstborn, my father the lastborn.'\footnote{Both of these fathers could be called auwa `my/our father(s)' by the two men.}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: yo	 gloss: 1s.UNM
+B: word: marewa=ke=yon	 gloss: none=CF-perhaps
+C: word: iki(w-e)p	 gloss: go-SS.SEQ
+D: word: (yo/i)	 gloss: 1s/1p.UNM
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 31:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Kuuten wiawi iperowa, yo ___ kapa=ke.
+Gloss (with missing item): Kuuten 3s/p.father firstborn 1s.UNM ___ lastborn=CF
+The English translation of this sentence is:`Kuuten's father was the firstborn, my father the lastborn.'\footnote{Both of these fathers could be called auwa `my/our father(s)' by the two men.}
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: urauwa	 gloss: hole
+B: word: kuisow	 gloss: one
+C: word: auwa	 gloss: 1s/p.father
+D: word: niawi	 gloss: 2s/p.father
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 32:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Aakisa ___ auwa kapa fain=ke yia uruf-i-ya.
+Gloss (with missing item): now ___ 1s/p.father lastborn this=CF 1p.ACC see-Np-PR.3s
+The English translation of this sentence is:`Now this lastborn of my ``fathers'' watches over us.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: nena	 gloss: 2s.GEN
+B: word: yo/yena	 gloss: 1s.UNM/1s.GEN
+C: word: marasin=ke	 gloss: poison=CF
+D: word: yena	 gloss: 1s.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 33:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Aakisa yena ___ kapa fain=ke yia uruf-i-ya.
+Gloss (with missing item): now 1s.GEN ___ lastborn this=CF 1p.ACC see-Np-PR.3s
+The English translation of this sentence is:`Now this lastborn of my ``fathers'' watches over us.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: auwa	 gloss: 1s/p.father
+B: word: niawi	 gloss: 2s/p.father
+C: word: urauwa	 gloss: hole
+D: word: tiil	 gloss: on.edge
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 34:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Sa, a ___ nie=ke, nena nepua=ke, niawi=ke.
+Gloss (with missing item): INTJ INTJ ___ 2s/p.uncle=CF 2s.GEN 2s/p.brother-in-law 2s/p.father
+The English translation of this sentence is:`(Don't you understand,) those are your uncle(-in-law), your brother-in-law and father(-in-law).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: nenar-e-mik=i	 gloss: shoot.you-PA-1/3p=QM
+B: word: nena	 gloss: 2s.GEN
+C: word: nefar	 gloss: 2s.DAT
+D: word: yena	 gloss: 1s.GEN
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 35:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Sa, a nena ___ nena nepua=ke, niawi=ke.
+Gloss (with missing item): INTJ INTJ 2s.GEN ___ 2s.GEN 2s/p.brother-in-law 2s/p.father
+The English translation of this sentence is:`(Don't you understand,) those are your uncle(-in-law), your brother-in-law and father(-in-law).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: nie	 gloss: 2s/p.uncle
+B: word: nie=ke	 gloss: 2s/p.uncle=CF
+C: word: aite=ke	 gloss: 1s/p.mother=CF
+D: word: nan	 gloss: there
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 36:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Sa, a nena nie=ke, ___ nepua=ke, niawi=ke.
+Gloss (with missing item): INTJ INTJ 2s.GEN 2s/p.uncle=CF ___ 2s/p.brother-in-law 2s/p.father
+The English translation of this sentence is:`(Don't you understand,) those are your uncle(-in-law), your brother-in-law and father(-in-law).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: nena	 gloss: 2s.GEN
+B: word: nenar-e-mik=i	 gloss: shoot.you-PA-1/3p=QM
+C: word: yena	 gloss: 1s.GEN
+D: word: aakun-owa	 gloss: talk-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 37:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Sa, a nena nie=ke, nena ___ niawi=ke.
+Gloss (with missing item): INTJ INTJ 2s.GEN 2s/p.uncle=CF 2s.GEN ___ 2s/p.father
+The English translation of this sentence is:`(Don't you understand,) those are your uncle(-in-law), your brother-in-law and father(-in-law).'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The ``possessors'' are differentiated as first, second or third person but not as singular vs. plural. An unmarked \REF{ex:3:x1311} or a genitive pronoun \REF{ex:3:x28} and \REF{ex:3:x1312} may be used to either make this number distinction or to emphasize the kin relationship, when the relationship is used as a term of reference rather than as a term of address.
+A: word: mua=ke	 gloss: man=CF
+B: word: kuum-e-mik	 gloss: burn-PA-1/3p
+C: word: nepua=ke	 gloss: 2s/p.brother-in-law
+D: word: neremena	 gloss: 2s/p.nephew
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 38:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___
+Gloss (with missing item): ___
+The English translation of this sentence is:`(the act of) dancing', `(traditional) dance'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The process of nominalizing verbs is a straightforward and fully productive process of adding the nominalizing suffix -\textstyleStyleVernacularWordsItalic{owa} to the verb stem. The nominalized verbs most commonly function as nouns \REF{ex:3:x62}--\REF{ex:3:x1231}, sometimes also as adjectives \REF{ex:3:x1247}.\footnote{In the Mauwake dictionary some of these nominalized forms have their own entry as if they were fully lexicalized as nouns, but this is to some extent a concession to other languages, where separate nouns may be required for the action nominals and more lexicalized deverbal nouns (for the distinction, see \citealt[193]{Ylikoski2003}). In Mauwake it is often difficult to establish which of the nominalizations are lexicalized.}
+A: word: uf-owa	 gloss: dance-NMZ
+B: word: muf-owa	 gloss: pull-NMZ
+C: word: ikoka	 gloss: later
+D: word: niir-owa	 gloss: play-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 39:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ opaimika aakun-e-mik.
+Gloss (with missing item): ___ talk talk-PA-1/3p
+The English translation of this sentence is:`In the meeting we talked.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The process of nominalizing verbs is a straightforward and fully productive process of adding the nominalizing suffix -\textstyleStyleVernacularWordsItalic{owa} to the verb stem. The nominalized verbs most commonly function as nouns \REF{ex:3:x62}--\REF{ex:3:x1231}, sometimes also as adjectives \REF{ex:3:x1247}.\footnote{In the Mauwake dictionary some of these nominalized forms have their own entry as if they were fully lexicalized as nouns, but this is to some extent a concession to other languages, where separate nouns may be required for the action nominals and more lexicalized deverbal nouns (for the distinction, see \citealt[193]{Ylikoski2003}). In Mauwake it is often difficult to establish which of the nominalizations are lexicalized.}
+A: word: lolom	 gloss: mud
+B: word: fiirim-owa=pa	 gloss: gather-NMZ=LOC
+C: word: kookal-owa=pa	 gloss: like-NMZ=LOC
+D: word: samor-eka	 gloss: bad-IMP.2p
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 40:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Amina ___ eliw(a) marewa=ke.
+Gloss (with missing item): pot ___ good none=CF
+The English translation of this sentence is:`The pot is broken (and) not good' or: `The broken pot is not good.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The process of nominalizing verbs is a straightforward and fully productive process of adding the nominalizing suffix -\textstyleStyleVernacularWordsItalic{owa} to the verb stem. The nominalized verbs most commonly function as nouns \REF{ex:3:x62}--\REF{ex:3:x1231}, sometimes also as adjectives \REF{ex:3:x1247}.\footnote{In the Mauwake dictionary some of these nominalized forms have their own entry as if they were fully lexicalized as nouns, but this is to some extent a concession to other languages, where separate nouns may be required for the action nominals and more lexicalized deverbal nouns (for the distinction, see \citealt[193]{Ylikoski2003}). In Mauwake it is often difficult to establish which of the nominalizations are lexicalized.}
+A: word: umuk-owa	 gloss: extinguish-NMZ
+B: word: onak	 gloss: 3s/p.mother
+C: word: puk-owa	 gloss: break-NMZ
+D: word: eefeke	 gloss: there2.CF
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 41:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Siowa ___ miim-ap ekap-o-k.
+Gloss (with missing item): dog ___ hear-SS.SEQ come-PA-3s
+The English translation of this sentence is:`He heard the dog's noise and came' or: `The dog heard noise and came.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Action nominals function like any regular nouns in Mauwake. They can be, for example, a head \REF{ex:3:x64} or a qualifier \REF{ex:3:x65} in a \textstyleAcronymallcaps{np}, and a first \REF{ex:3:x66} or last element \REF{ex:3:x67} in a compound noun.
+A: word: on-owa	 gloss: make-NMZ
+B: word: wu-owa	 gloss: put-NMZ
+C: word: war-iwkin	 gloss: shoot-2/3p.DS
+D: word: alu-owa	 gloss: make.noise-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 42:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Oram ___ opora ma-e-m.
+Gloss (with missing item): just ___ talk say-PA-1s
+The English translation of this sentence is:`I just said it as a joke.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Action nominals function like any regular nouns in Mauwake. They can be, for example, a head \REF{ex:3:x64} or a qualifier \REF{ex:3:x65} in a \textstyleAcronymallcaps{np}, and a first \REF{ex:3:x66} or last element \REF{ex:3:x67} in a compound noun.
+A: word: eefin	 gloss: that2
+B: word: niir-owa	 gloss: play-NMZ
+C: word: ekap-owa	 gloss: come-NMZ
+D: word: niir-ow(a)	 gloss: laugh-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 43:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Kaul ___ mera aaw-owa eliw.
+Gloss (with missing item): hook ___ fish get-NMZ all.right
+The English translation of this sentence is:`As for throwing a hook, it is a good way of catching fish.' (Lit: `Hook-throwing is all right for fish-catching.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Action nominals function like any regular nouns in Mauwake. They can be, for example, a head \REF{ex:3:x64} or a qualifier \REF{ex:3:x65} in a \textstyleAcronymallcaps{np}, and a first \REF{ex:3:x66} or last element \REF{ex:3:x67} in a compound noun.
+A: word: mik-owa	 gloss: shoot-NMZ
+B: word: ewur	 gloss: quickly
+C: word: wafur-owa	 gloss: throw-NMZ
+D: word: wafur-om-i-kuan	 gloss: throw-BEN-Np-FU.3p
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: C
+
+Question 44:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Kaul wafur-owa mera ___ eliw.
+Gloss (with missing item): hook throw-NMZ fish ___ all.right
+The English translation of this sentence is:`As for throwing a hook, it is a good way of catching fish.' (Lit: `Hook-throwing is all right for fish-catching.')
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Action nominals function like any regular nouns in Mauwake. They can be, for example, a head \REF{ex:3:x64} or a qualifier \REF{ex:3:x65} in a \textstyleAcronymallcaps{np}, and a first \REF{ex:3:x66} or last element \REF{ex:3:x67} in a compound noun.
+A: word: aaw-owen=i	 gloss: get-FU.2p=QM
+B: word: asip-owa	 gloss: help-NMZ
+C: word: maa	 gloss: thing/food
+D: word: aaw-owa	 gloss: get-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 45:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): mua ___
+Gloss (with missing item): man ___
+The English translation of this sentence is:`talk(ing) of man/people', `people's talk'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following expressions form an interesting pair, as \REF{ex:3:x424} is a \textstyleAcronymallcaps{np} with a nominalized verb as its head, and \REF{ex:3:x425} is a compound noun with a nominalized verb as the first part.
+A: word: yena	 gloss: 1s.GEN
+B: word: aakun-owa	 gloss: talk-NMZ
+C: word: paayar-owa	 gloss: understand-NMZ
+D: word: aakun-ow(a)	 gloss: talk-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: B
+
+Question 46:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ___ mua
+Gloss (with missing item): ___ man
+The English translation of this sentence is:`a talker', `a spokesman'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The following expressions form an interesting pair, as \REF{ex:3:x424} is a \textstyleAcronymallcaps{np} with a nominalized verb as its head, and \REF{ex:3:x425} is a compound noun with a nominalized verb as the first part.
+A: word: aakun-owa	 gloss: talk-NMZ
+B: word: ewur	 gloss: quickly
+C: word: paayar-owa	 gloss: understand-NMZ
+D: word: aakun-ow(a)	 gloss: talk-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 47:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): ikemika ___ mua
+Gloss (with missing item): wound ___ man
+The English translation of this sentence is:`doctor, nurse'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet[334--342]{ComrieEtAl2007} list various kinds of other nominalization possibilities,\footnote{\citet[500]{Givon1990} calls all of these lexical nominalizations, and Ylikoski calls them deverbal nouns (\citeyear[193]{Ylikoski2003}) to distinguish them from action nominals.} but in Mauwake the corresponding expressions are compound nouns or noun phrases consisting of the nominalized verb (or clause) plus another noun \REF{ex:3:x1232}, \REF{ex:3:x1233}, rather than simple nominalizations.
+A: word: kaik-ow(a)	 gloss: tie-NMZ
+B: word: asip-owa	 gloss: help-NMZ
+C: word: nain=ko	 gloss: that1=NF
+D: word: irak-ow(a)	 gloss: fight-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: A
+
+Question 48:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): maa eneka ___ (maa){\upshape\footnotemark{}}
+Gloss (with missing item): thing tooth ___ (thing)
+The English translation of this sentence is:`can opener'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \citet[334--342]{ComrieEtAl2007} list various kinds of other nominalization possibilities,\footnote{\citet[500]{Givon1990} calls all of these lexical nominalizations, and Ylikoski calls them deverbal nouns (\citeyear[193]{Ylikoski2003}) to distinguish them from action nominals.} but in Mauwake the corresponding expressions are compound nouns or noun phrases consisting of the nominalized verb (or clause) plus another noun \REF{ex:3:x1232}, \REF{ex:3:x1233}, rather than simple nominalizations.
+A: word: karu-owa	 gloss: run-NMZ
+B: word: irak-ow(a)	 gloss: fight-NMZ
+C: word: niam	 gloss: 2p.REFL
+D: word: teek-ow(a)	 gloss: open-NMZ
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D
+
+Question 49:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option.
+Sentence (with missing item): Dabuel ___ nain=iw biiris on-am-ik-e-mik.
+Gloss (with missing item): pawpaw ___ that1=INST bridge make-SS.SIM-be-PA-1/3p
+The English translation of this sentence is:`They kept making the bridge with pawpaw trunks.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Reduplication of nouns to denote plurality is a very marginal process in Mauwake \REF{ex:3:x68}--\REF{ex:3:x426}, whereas reduplication of verbs (\sectref{sec:3.8.2.4.1}) is much more frequent, and that of adjectives (\sectref{sec:3.3}) also more common. Usually the whole noun is reduplicated; final <a> is deleted in the reduplicated part of words that are longer than two syllables \REF{ex:3:x426}.
+A: word: en-em-ik-omkun	 gloss: eat-SS.SIM-be-1s/p.DS
+B: word: ipoka	 gloss: stomach
+C: word: gele-gelemuti-tik	 gloss: RDP-small-RDP
+D: word: poka-poka	 gloss: RDP-trunk
+Please only return the letter (A–D). Do not say anything else.
+Correct Answer: D

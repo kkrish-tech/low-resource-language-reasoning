@@ -1,0 +1,249 @@
+\label{ex:4:x394}
+\gll yiena iiriw kae sira nain
+\gls 1p.GEN earlier 1s/p.grandfather custom that1
+\glt `that traditional custom of ours'
+
+\label{ex:4:x395}
+\gll ona siowa
+\gls 3s.GEN dog
+\glt `his/her dog'
+
+\label{ex:4:x396}
+\gll ifa nain
+\gls snake that1
+\glt `the/that snake'
+
+\label{ex:4:x397}
+\gll owow(a) maneka mua
+\gls village big man
+\glt `townsman'
+
+\label{ex:4:x398}
+\gll Wi sawur=ke kuura puuk-a-mik.
+\gls 3p.UNM spirit=CF fly change.into-PA-1/3p
+\glt `The spirits changed into flies.'
+
+\label{ex:4:x399}
+\gll 'Yo nena niawi=ke nefa maak-i-yem.
+\gls 1s.UNM 2s.GEN 2s/p.father=CF 2s.ACC tell-Np-PR.1s
+\glt `I, your father, tell you...'
+
+\label{ex:4:x400}
+\gll Wi Lasen=ke ekap-e--mik.
+\gls 1p.UNM Lasen=CF come-PA-1/3p
+\glt `The Lasen (village) people came.'
+
+\label{ex:4:x401}
+\gll ni aakis takira
+\gls 2p.UNM present-day young.person
+\glt `you young people of today'
+
+\label{ex:4:x1883}
+\gll wi iiriw akena mua
+\gls 3p.UNM earlier truly man
+\glt `the people of long ago'
+
+\label{ex:4:x402}
+\gll sawur emeria ona onak wiawi
+\gls spirit woman 3s.GEN 3s/p.mother 3s/p.father
+\glt `the spirit woman's parents'
+
+\label{ex:4:x403}
+\gll siowa wiawi
+\gls dog 3s/p.father
+\glt `the dog's owner'
+
+\label{ex:4:x404}
+\gll yiena kae sira
+\gls 1p.GEN 1s/p.grandfather custom
+\glt `our ancestors' (lit: grandfathers') custom'
+
+\label{ex:4:x406}
+\gll ona koora
+\gls 3s.GEN house
+\glt `his house'
+
+\label{ex:4:x407}
+\gll takira niir-owa
+\gls youth play-NMZ
+\glt `young people's play(ing)'
+
+\label{ex:4:x409}
+\gll Ona apura maa oposia me enim-i-non.
+\gls 3s.GEN widow thing meat not eat-Np-FU.3s
+\glt `His widow will not eat meat.'
+
+\label{ex:4:x410}
+\gll sawur emeria ona onak wiawi
+\gls spirit woman 3s.GEN 3s/p.mother 3s/p.father
+\glt `the spirit woman's parents'
+
+\label{ex:4:x1315}
+\gll Oo, no emeria iiriw sesek-a-mik.
+\gls Oh 2s.UNM woman already send-PA-1/3p
+\glt `Oh, we already sent your wife away.'
+
+\label{ex:4:x1314}
+\gll Nep(a) opaimika me amis(a)-ar-ep wiena opaimika=iw yia maak-em-ik-e-mik.
+\gls bird talk not knowledge-INCH-SS.SEQ 3p.GEN talk=INST 1p.ACC tell-SS.SIM-be-PA-1/3p
+\glt `They did not know Tok Pisin and talked to us in their (own) language.'
+
+\label{ex:4:x411}
+\gll i emeria apura yiena mua weria wiena emeria nain=ke
+\gls 1p.UNM woman widow 1p.GEN man planting.stick 3p.GEN woman that1=CF
+\glt `the wives of the ``weria-relatives'' of us widows'
+
+\label{ex:4:x413}
+\gll Fiker(a) epia nain aw-i-non.
+\gls kunai.grass fire that1 burn-Np-FU.3s
+\glt `The grass fire will burn.'
+
+\label{ex:4:x412}
+\gll Mua takira unowa ne emeria wiip-takira=ke me unowa akena.
+\gls man youth many ADD woman daughter-youth=CF not many very
+\glt `There are many young boys but not very many young girls.'
+
+\label{ex:4:x1832}
+\gll Epa kokom-ar-eya urera siowa mua ookinon.
+\gls place dark-INCH-2/3s.DS afternoon dog man follow-Np-FU.3s
+\glt `When it gets dark in the afternoon he will follow the ``dog man'' (a certain nominated person in the singsing traditions).'
+
+\label{ex:4:x834}
+\gll Bogia era
+\gls Bogia road
+\glt `the Bogia road'
+
+\label{ex:4:x833}
+\gll Malala owowa
+\gls Malala village
+\glt `Malala village'
+
+\label{ex:4:x414}
+\gll garanga oko muuka wiar aaw-owa sira
+\gls family other son 3.DAT get-NMZ custom
+\glt `adoption custom (lit: the custom of getting a son from another family)'
+
+\label{ex:4:x415}
+\gll wiam arow nain
+\gls 3p.UNM(REFL) three that1
+\glt `the three of them / those three'
+
+\label{ex:4:x416}
+\gll labuel(a) mua
+\gls pawpaw man
+\glt `male pawpaw'
+
+\label{ex:4:x417}
+\gll takira emin(a) kekanowa
+\gls boy occiput strong
+\glt `pig-headed boy'
+
+\label{ex:4:x418}
+\gll mua bug maala nain
+\gls man wind long that1
+\glt `the man with good lungs'
+
+\label{ex:4:x419}
+\gll Waa(ya) muuka kia gelemuta op-a-m.
+\gls pig son white small catch-PA-1s
+\glt `I caught a small white piglet.'
+
+\label{ex:4:x420}
+\gll Emer(a) itita enum(a) eliwa nain enak-e.
+\gls sago soft new good that1 feed.me-IMP.2s
+\glt `Give me the good new soft sago/bread to eat.'
+
+\label{ex:4:x804}
+\gll Siowa morena oko aruf-a-k.
+\gls dog male another hit-PA-3s
+\glt `He hit another male dog.'
+
+\label{ex:4:x805}
+\gll koora erepam nain
+\gls house four that1
+\glt `the/those four houses' or `the fourth house'
+
+\label{ex:4:x1793}
+\gll Owow emeria mua unowa sira eliwa wiar uruf-ap ...
+\gls village woman man many custom good 3.DAT see-SS.SEQ ...
+\glt `The many villagers saw his good manners and ...'
+
+\label{ex:4:x1811}
+\gll Pina gelemuta eliw owowa=pa nefar kaken-ami welaw-i-kuan.
+\gls guilt small well village=LOC 2s.DAT straighten-SS.SIM finish-Np-FU.3p
+\glt `Your small guilt they can well straighten and finish in the village.'
+
+\label{ex:4:x1812}
+\gll Amina fain me wiar op-aka.
+\gls pot this not 3.DAT hold-IMP.2p
+\glt `Don't hold/touch these pots of hers.'
+
+\label{ex:4:x1938}
+\gll Yo miira me uruf-a-m, afifa muutiw wiar uruf-a-m.
+\gls 1s.UNM face not see-PA-1s hair only 3.DAT see-PA-1s
+\glt `I didn't see the face, I only saw his hair.'
+
+\label{ex:4:x810}
+\gll Amina, wiowa, eka napia koor miira=pa iimar-ow-a-mik.
+\gls pot spear, water bamboo house face=LOC stand-CAUS-PA-1/3p
+\glt `We placed the pots, spears and water bamboos in front of the house.'
+
+\label{ex:4:x811}
+\gll I mua unowa, emeria papako ikiw-e-mik.
+\gls 1s.UNM man many woman some go-PA-1/3p
+\glt `Many men (including the narrator) and some women went.'
+
+\label{ex:4:x812}
+\gll Nie ne neke nomokow fiira=ke.
+\gls 2s/p.maternal.uncle ADD 2s/p.grandfather tree root=CF
+\glt `Your maternal uncle and your grandfather are the most important relatives.'
+
+\label{ex:4:x814}
+\gll Mera kas, mulamul ne popotimaw aaw-i-mik.
+\gls fish mackerel trevally.sp ADD trevally.sp get-Np-PR.1/3p
+\glt `We catch mackerel, mulamul trevally and popotimaw trevally.'
+
+\label{ex:4:x893}
+\gll Manin koora nain koka ne ifara=ke wakesim-o-k.
+\gls garden house that1 jungle ADD vine=CF cover-PA-3s
+\glt `The garden house was covered by jungle and vines.'
+
+\label{ex:4:x894}
+\gll Wiena merena ne wapen=iw era akup-a-mik.
+\gls 3p.GEN foot ADD hand=INST road search-PA-1/3p
+\glt `They felt for the road with their feet and hands.'
+
+\label{ex:4:x815}
+\gll Yos, yena auwa, aria wi emer en-owa mua kuisow ikiw-e-mik.
+\gls 1s.FC 1s.GEN 1s/p.father alright 3p.UNM sago eat-NMZ man one go-PA-1/3p
+\glt `I, my father, and one Sepik man went.'
+
+\label{ex:4:x816}
+\gll Moma, aria emera naap lawisiw eeyar-e-k.
+\gls taro, alright sago thus rather last-PA-3s
+\glt `Taro, and sago, lasted a little longer.'
+
+\label{ex:4:x817}
+\gll Mera aaw-owa sira e era ikur okaiwi=pa kuisow ik-ua.
+\gls fish get-NMZ custom or way five other.side=LOC one be-PA.3s
+\glt `There are six means of catching fish.'
+
+\label{ex:4:x818}
+\gll Maa oposia=i moma, emera, naap sesek-a-mik.
+\gls thing meat=QM taro sago thus sell-PA-1/3p
+\glt `They sold meat, taro, sago...'
+
+\label{ex:4:x828}
+\gll Ikoka mua owawiya irak-ep me efar kerer-e.
+\gls later man with fight-SS.SEQ not 1s.DAT appear-IMP.2s
+\glt `Later when you fight with your husband, do not come to me.'
+
+\label{ex:4:x829}
+\gll Wi Yaapan oos onaiya Madang ikiw-e-mik.
+\gls 3p.UNM Japan horse with Madang go-PA-1/3p
+\glt `The Japanese went with horses to Madang.'
+
+\label{ex:4:x830}
+\gll Parosifa siisim-ep muuka feekiya sesek-i-nen.
+\gls letter write-SS.SEQ son with send-Np-FU.1s
+\glt `I will write a letter and send it with my son.'

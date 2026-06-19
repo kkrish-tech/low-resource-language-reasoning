@@ -1,0 +1,299 @@
+\ea \label{ex:10:1}
+\gsrc \textbf{Apazan} albaya ahay tolo a ləhe.
+\gll \textbf{apazaŋ} albaja=ahaj tɔ-lɔ a lɪhɛ
+\gls yesterday youth=Pl 3P+PFV-go at bush
+\glt ‘Yesterday the youths went to the bush.’
+
+\ea \label{ex:10:2}
+\gsrc \textbf{Hawa} ahəmay.
+\gll \textbf{Hawa} à-həm-aj
+\gls Hawa 3S+PFV-run-CL
+\glt ‘Hawa ran.’
+
+\ea \label{ex:10:3}
+\gsrc \textbf{Ne ahan} nozom na.
+\gll \textbf{nɛ}\textbf{=ahaŋ} n\'{ɔ}-zɔm na
+\gls oneS=3S.POSS 3S+PFV-eat 3S.DO
+\glt ‘I myself ate it.’
+
+\ea \label{ex:10:4}
+\gsrc Nəhəmay.
+\gll n\`{ə}-həm-aj
+\gls 1S+PFV-run-\CL
+\glt ‘I ran.’
+
+\ea \label{ex:10:5}
+\gsrc Dəraka alay!
+\gll dər=aka=alaj
+\gls move=on=away
+\glt ‘Move further over!’
+
+\ea \label{ex:10:8}
+\gsrc Nəvəlan na.
+\gll n\`{ə}-vəl=aŋ na
+\gls oneS+PFV-give=3S.IO 3S.DO
+\glt ‘I gave it to him.’
+
+\ea \label{ex:10:9}
+\gsrc Zaw na ala!
+\gll z=aw na=ala
+\gls carry[twoS.IMP]=oneS.IO 3S.DO=to
+\glt ‘Bring it to me!’
+
+\ea \label{ex:10:10}
+\gsrc [Mana ] [zar mehere].
+\gll [Mana] [zar mɛ-hɛr-ɛ]
+\gls Mana man NOM-build-CL
+\glt ‘Mana [is] a builder.’ (lit. Mana, building-man)
+
+\ea \label{ex:10:11}
+\gsrc [Sləmay əwla] [Abangay].
+\gll [ɬəmaj=uwla] [Abaŋgaj]
+\gls name=oneS.POSS Abangay
+\glt ‘My name [is] Abangay.’
+
+\ea \label{ex:10:12}
+\gsrc [Zar nehe] [baba əwla].
+\gll [zar nɛhɛ] [baba=uwla]
+\gls man DEM father=oneS.POSS
+\glt ‘The man [is] my father.’
+
+\ea \label{ex:10:13}
+\gsrc [Ndahan] [malan ga].
+\gll [ndahaŋ] [malaŋ ga]
+\gls 3S largeness ADJ
+\glt ‘He/she [is] big.’
+
+\ea \label{ex:10:14}
+\gsrc [Babəza ahay nəndəye] [\textbf{anga} bahay].
+\gll [babəza=ahaj nɪndijɛ] [\textbf{aŋga} bahaj]
+\gls children=Pl DEM POSS chief
+\glt ‘The children here belong to the chief.’
+
+\ea \label{ex:10:15}
+\gsrc [Dəray ga] [\textbf{anga} ləme].
+\gll [dəraj ga] [\textbf{aŋga} lɪmɛ]
+\gls head ADJ POSS 1PEX
+\glt ‘The head belonged to us.’
+
+\ea \label{ex:10:16}
+\gsrc [Zar mehere na], [Mana].
+\gll [zar mɛ-hɛr-ɛ] na [Mana]
+\gls man NOM-build-CL PSP Mana
+\glt ‘The builder [is] Mana.’
+
+\ea \label{ex:10:17}
+\gsrc [Bahay a Laway na], [Ajəva].
+\gll [bahaj a Lawaj na] [Adzəva]
+\gls chief GEN Lalaway PSP Adzava
+\glt ‘The chief of Lalaway [is] Adzava.’
+
+\ea \label{ex:10:18}
+\gsrc [Malan ga na], [ndahan].
+\gll [malaŋ ga] na [ndahaŋ]
+\gls largeness ADJ PSP 3S
+\glt ‘The biggest one [is] him.’
+
+\ea \label{ex:10:19}
+\gsrc [Alala \textbf{bay}].
+\gll [à-l=ala \textbf{baj}]
+\gls 3S+PFV-go=to NEG
+\glt ‘He/she didn’t come.’
+
+\ea \label{ex:10:20}
+\gsrc [War ga ecen sləmay \textbf{bay}].
+\gll [war ga ɛ-tʃɛŋ ɬəmaj \textbf{baj}]
+\gls child ADJ 3S-hear ear NEG
+\glt ‘That child did not obey.’
+
+\ea \label{ex:10:21}
+\gsrc [Táazləgalay avəlo \textbf{bay}].
+\gll [táá-ɮəg=alaj avʊlɔ \textbf{baj}]
+\gls 3P+POT-throw=away above NEG
+\glt ‘They should not throw it too high.’
+
+\ea \label{ex:10:22}
+\gsrc [Tagaw ele lala \textbf{bay}].
+\gll [ta-g=aw ɛlɛ lala \textbf{baj}]
+\gls 3P-do=oneS.IO thing good NEG
+\glt ‘They do bad things to me.’
+
+\ea \label{ex:10:23}
+\gsrc [Kárasay məze cəɗew ga \textbf{bay}].
+\gll [ká-ras-aj mɪʒɛ tʃɪɗɛw ga \textbf{baj}]
+\gls twoS+IFV-minimise-CL person smallness ADJ NEG
+\glt ‘Don’t insult one of the little people.’
+
+\ea \label{ex:10:24}
+\gsrc [Anday dəren \textbf{bay}].
+\gll [à-ndaj dɪrɛŋ \textbf{baj}]
+\gls 3S+PFV-PRG far NEG
+\glt ‘He/she was not far.’
+
+\ea \label{ex:10:28}
+\gsrc Ahəmay.
+\gll a-həm-aj
+\gls 3S-run-CL
+\glt ‘He/she runs.’
+
+\ea \label{ex:10:29}
+\gsrc Ahəmay \textbf{bay.}
+\gll a-həm-aj \textbf{baj}
+\gls 3S-run-CL NEG
+\glt ‘He/she doesn’t run.’
+
+\ea \label{ex:10:31}
+\gsrc Amənjar Hawa \textbf{bay.}
+\gll a-mənzar Hawa \textbf{baj}
+\gls 3S-see Hawa NEG
+\glt ‘He/she doesn’t see Hawa.’
+
+\ea \label{ex:10:32}
+\gsrc Akaɗ awak.
+\gll a-kaɗ awak
+\gls 3S-kill goat
+\glt ‘He/she kills a goat.’
+
+\ea \label{ex:10:33}
+\gsrc Akaɗ awak \textbf{bay.}
+\gll a-kaɗ awak \textbf{baj}
+\gls 3S-kill goat NEG
+\glt ‘He/she doesn’t kill a goat.’
+
+\ea \label{ex:10:34}
+\gsrc Asaw sese.
+\gll a-s=aw ʃɛʃɛ
+\gls 3S-please=oneS.IO meat
+\glt ‘I want meat.’
+
+\ea \label{ex:10:35}
+\gsrc Asaw sese \textbf{bay.}
+\gll a-s=aw ʃɛʃɛ \textbf{baj}
+\gls 3S-please=oneS.IO meat NEG
+\glt ‘I do not want meat.’
+
+\ea \label{ex:10:37}
+\gsrc Babəza əwla ahay \textbf{abay.}
+\gll babəza=uwla=ahaj \textbf{abaj}
+\gls children=oneS.POSS=Pl EXT+NEG
+\glt ‘I have no children.’
+
+\ea \label{ex:10:39}
+\gsrc Dala anaw aka \textbf{bay.}
+\gll dala an=aw aka \textbf{baj}
+\gls money DAT=oneS EXT+on NEG
+\glt ‘I have no money.’
+
+\ea \label{ex:10:40}
+\gsrc Ndahan zləle ga.
+\gll ndahaŋ ɮɪlɛ ga
+\gls 3S richness ADJ
+\glt ‘He/she is rich.’
+
+\ea \label{ex:10:41}
+\gsrc Ndahan zləle ga \textbf{bay.}
+\gll ndahaŋ ɮɪlɛ ga \textbf{baj}
+\gls 3S richness ADJ NEG
+\glt ‘He/she is not rich.’
+
+\ea \label{ex:10:42}
+\gsrc Ndahan gədan ga.
+\gll ndahaŋ gədaŋ ga
+\gls 3S strength ADJ
+\glt ‘He/she is strong.’
+
+\ea \label{ex:10:43}
+\gsrc Ndahan gədan ga \textbf{bay.}
+\gll ndahaŋ gədaŋ ga \textbf{baj}
+\gls 3S strength ADJ NEG
+\glt ‘He/she is not strong.’
+
+\ea \label{ex:10:44}
+\gsrc Mana na, olo [a kosoko ava] ɗaw?
+\gll Mana na ɔ-lɔ [a kɔsɔkʷɔ ava] ɗaw
+\gls Mana PSP 3S-go at market in Q
+\glt ‘As for Mana, is he going to the market?’
+
+\ea \label{ex:10:46}
+\gsrc Ehe, olo [a kosoko ava] \textbf{bay}; enjé a mogom.
+\gll ɛhɛ [ɔ-lɔ a kɔsɔkʷɔ ava] \textbf{baj} ɛ-nʒ-ɛ a mɔgʷɔm
+\gls no 3S-go at market in NEG 3S-stay-CL at home
+\glt ‘No, he isn’t going to the market; rather he is staying at home.’
+
+\ea \label{ex:10:47}
+\gsrc Mana avəlan kəndew ana baba ahan ɗaw?
+\gll Mana à-vəl=aŋ kɪndɛw ana baba=ahaŋ ɗaw
+\gls Mana 3S+PFV-give=3S.IO guitar DAT father=3S.POSS Q
+\glt ‘Did Mana give the guitar to his father?’
+
+\ea \label{ex:10:49}
+\gsrc Ehe, avəlan [kəndew] \textbf{bay}, avəlan cecewk.
+\gll ɛhɛ à-vəl=aŋ [kɪndɛw] \textbf{baj} à-vəl=aŋ tʃɛtʃœkʷ
+\gls no 3S+PFV-give=3S.IO guitar NEG 3S+PFV-give=3S.IO flute
+\glt ‘No, he didn’t give a guitar to his father, he gave him a flute.’
+
+\ea \label{ex:10:50}
+\gsrc Ehe, aməvəlan kəndew ana baba ahan na, [Mana] bay;
+\gll ɛhɛ amə-vəl=aŋ kɪndɛw ana baba=ahaŋ na [Mana] baj
+\gls no DEP-give=3S.IO guitar DAT father=3S.POSS PSP Mana NEG
+\glt ‘No, Mana didn’t give the guitar to his father.’
+
+\ea \label{ex:10:53}
+\gsrc Zar amənjar [\textbf{way}]?
+\gll zar à-mənzar [\textbf{waj}]
+\gls man 3S+PFV-see who
+\glt ‘Who did the man see?’
+
+\ea \label{ex:10:54}
+\gsrc Zar amənjar [Mana].
+\gll zar à-mənzar [Mana]
+\gls man 3S+PFV-see Mana
+\glt ‘The man saw Mana.’
+
+\ea \label{ex:10:55}
+\gsrc Hor ede [elele \textbf{weley}]?
+\gll hʷɔr ɛ-dɛ [ɛlɛlɛ \textbf{wɛlɛj}]
+\gls woman 3S-prepare sauce which
+\glt ‘The woman is making which kind of sauce?’
+
+\ea \label{ex:10:56}
+\gsrc Hor ede [elele kəlef].
+\gll hʷɔr ɛ-d-ɛ [ɛlɛlɛ kɪlɛf]
+\gls woman 3S-prepare-CL sauce fish
+\glt ‘The woman is making fish sauce.’
+
+\ea \label{ex:10:57}
+\gsrc Kəlala [aməgəye \textbf{almay}]?
+\gll k\`{ə}-l=ala [amɪ-g-ijɛ \textbf{almaj}]
+\gls twoS+PFV-go=to DEP-do-CL what
+\glt ‘What have you come to do?’ (lit. you have come to do what?)
+
+\ea \label{ex:10:58}
+\gsrc Nəlala [aməgəye slərele].
+\gll n\`{ə}-l=ala [amɪ-g-ijɛ ɬɪrɛlɛ]
+\gls oneS+PFV-go=to DEP-do-CL work
+\glt ‘I came to do work.’
+
+\ea \label{ex:10:59}
+\gsrc Nəlala [aməjənok].
+\gll n\`{ə}-l=ala [amə-dzən-ɔkʷ]
+\gls oneS+PFV-go=to DEP-help-twoS
+\glt ‘I came to help you.’
+
+\ea \label{ex:10:61}
+\gsrc Mala avəlan ɗeləywer [ana Hawa].
+\gll Mala à-vəl=aŋ ɗɛlijwɛr [ana Hawa]
+\gls Mala 3S+PFV-give=3S.IO paper DAT Hawa
+\glt ‘Mala gave the book to Hawa.’
+
+\ea \label{ex:10:62}
+\gsrc Hor olo a kosoko ava [\textbf{epeley}]?
+\gll hʷɔr ɔ-lɔ a kɔsɔkʷɔ ava [\textbf{ɛpɛlɛj}]
+\gls woman 3S-go at market in when
+\glt ‘When is the woman going to market?’
+
+\ea \label{ex:10:63}
+\gsrc Hor olo a kosoko ava [hajan].
+\gll hʷɔr ɔ-lɔ a kɔsɔkʷɔ ava [hadzaŋ]
+\gls woman 3S-go at market in tomorrow
+\glt ‘The woman is going to market tomorrow.’
