@@ -1,6 +1,5 @@
 # Karthikeyan Kumaravel Krishnan
-# CS 5624: Natural Language Processing
-# Final Project - Chain of Thought Reasoning with Mini Glossary Approach
+# Chain of Thought Reasoning with Mini Glossary Approach
 
 # Standard libraries for parsing, file handling, and regex processing
 import re
